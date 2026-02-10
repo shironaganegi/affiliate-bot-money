@@ -43,5 +43,10 @@
     "name": "monty",
     "url": "https://github.com/pydantic/monty",
     "date": "2026-02-10T00:12:40.086185"
+  },
+  {
+    "name": "gitbutler",
+    "url": "https://github.com/gitbutlerapp/gitbutler",
+    "date": "2026-02-10T07:43:02.975511"
   }
 ]
