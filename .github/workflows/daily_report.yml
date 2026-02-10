@@ -75,6 +75,7 @@ jobs:
         git config --global user.email 'bot@example.com'
         git add articles/ data/ website/content/
         git commit -m "AI Agent: Created new article and data" || echo "No changes to commit"
+        git pull --no-rebase origin main || true
         git push
 
     # --- Phase 2: Website Deployment ---
