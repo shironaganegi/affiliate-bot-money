@@ -302,7 +302,7 @@ def load_trends_data():
         return json.load(f)
 
 def select_best_candidate(data):
-    """Selects the best tool to write about, considering history and diversity."""
+    """Selects the best financial news topic to write about, considering history and diversity."""
     history = load_history()
     cooldown_period = timedelta(days=14)
     cutoff_date = datetime.now() - cooldown_period
@@ -316,30 +316,32 @@ def select_best_candidate(data):
         except (ValueError, KeyError):
             continue
             
-    candidates = [item for item in data if item.get('daily_stars', 0) > 0 and item['url'] not in recent_posted_urls]
+    # Select ALL items not recently posted (news has daily_stars=0, so we don't filter by stars)
+    candidates = [item for item in data if item['url'] not in recent_posted_urls]
     
     # Fallback if everything is filtered
     if not candidates:
-        logger.info("All trending topics were posted recently. Picking a random one from top trends anyway.")
-        candidates = [item for item in data if item.get('daily_stars', 0) > 0]
+        logger.info("All trending topics were posted recently. Picking a random one from latest news anyway.")
+        candidates = data  # Use all data as fallback
     
     if not candidates:
         return None
 
-    # Ensure Source Diversity (Pick top 2 from each source)
+    # Ensure Source Diversity (Pick top 3 from each source)
     candidates_by_source = {}
     for item in candidates:
-        src = item.get('source', 'unknown')
+        src = item.get('source_name', item.get('source', 'unknown'))
         if src not in candidates_by_source:
             candidates_by_source[src] = []
         candidates_by_source[src].append(item)
     
     final_pool = []
     for src, items in candidates_by_source.items():
-        sorted_items = sorted(items, key=lambda x: x.get('daily_stars', 0), reverse=True)
-        final_pool.extend(sorted_items[:2])
+        # Sort by freshness (newest first) instead of stars
+        sorted_items = sorted(items, key=lambda x: x.get('fetched_at', ''), reverse=True)
+        final_pool.extend(sorted_items[:3])
         
-    logger.info(f"Candidate Poll Size: {len(final_pool)} (Sources: {list(candidates_by_source.keys())})")
+    logger.info(f"Candidate Pool Size: {len(final_pool)} (Sources: {list(candidates_by_source.keys())})")
     
     return random.choice(final_pool)
 
