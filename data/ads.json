@@ -35,6 +35,39 @@
         "active": true
     },
     {
+        "id": "money_forward_company_300",
+        "name": "Money Forward Company (300x250)",
+        "keywords": [
+            "会社設立",
+            "法人化",
+            "起業",
+            "副業",
+            "フリーランス",
+            "個人事業主",
+            "節税",
+            "マイクロ法人"
+        ],
+        "campaign_url": "https://px.a8.net/svt/ejp?a8mat=4AX7WD+FYJCBE+4JGQ+HZAGX",
+        "click_text": "手数料0円で会社設立！？マネーフォワードで賢く起業",
+        "description": "電子定款で印紙代4万円も節約。副業からの法人化を検討中ならこれ一択。",
+        "html": "<a href=\"https://px.a8.net/svt/ejp?a8mat=4AX7WD+FYJCBE+4JGQ+HZAGX\" rel=\"nofollow\">\n<img border=\"0\" width=\"300\" height=\"250\" alt=\"\" src=\"https://www25.a8.net/svt/bgt?aid=260210749965&wid=002&eno=01&mid=s00000021185003020000&mc=1\"></a>\n<img border=\"0\" width=\"1\" height=\"1\" src=\"https://www16.a8.net/0.gif?a8mat=4AX7WD+FYJCBE+4JGQ+HZAGX\" alt=\"\">",
+        "active": true
+    },
+    {
+        "id": "money_forward_company_728",
+        "name": "Money Forward Company (728x90)",
+        "keywords": [
+            "会社設立",
+            "法人",
+            "登記"
+        ],
+        "campaign_url": "https://px.a8.net/svt/ejp?a8mat=4AX7WD+FYJCBE+4JGQ+HW2Q9",
+        "click_text": "利用料金無料！3ステップで簡単に会社設立",
+        "description": "面倒な書類作成も自動化。起業のハードルが劇的に下がります。",
+        "html": "<a href=\"https://px.a8.net/svt/ejp?a8mat=4AX7WD+FYJCBE+4JGQ+HW2Q9\" rel=\"nofollow\">\n<img border=\"0\" width=\"728\" height=\"90\" alt=\"\" src=\"https://www28.a8.net/svt/bgt?aid=260210749965&wid=002&eno=01&mid=s00000021185003005000&mc=1\"></a>\n<img border=\"0\" width=\"1\" height=\"1\" src=\"https://www11.a8.net/0.gif?a8mat=4AX7WD+FYJCBE+4JGQ+HW2Q9\" alt=\"\">",
+        "active": true
+    },
+    {
         "id": "coincheck",
         "name": "Coincheck",
         "keywords": [
