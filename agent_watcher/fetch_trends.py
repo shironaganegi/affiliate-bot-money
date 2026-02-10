@@ -5,12 +5,7 @@ import logging
 from shared.config import config
 from shared.utils import setup_logging
 
-# Import trend sources
-from agent_watcher.sources.github import fetch_github_trending
-from agent_watcher.sources.product_hunt import fetch_product_hunt_trends
-from agent_watcher.sources.hacker_news import fetch_hacker_news_trends
-from agent_watcher.sources.zenn import fetch_zenn_trends
-from agent_watcher.sources.qiita import fetch_qiita_trends
+# Import ONLY financial news sources
 from agent_watcher.sources.x_trends import fetch_x_trends
 from agent_watcher.sources.rss import fetch_rss_trends
 
@@ -44,22 +39,19 @@ def load_source_config():
 
 def main():
     """
-    Main execution flow to hunt trends from sources defined in config.
+    Main execution flow to hunt FINANCIAL trends.
+    Strictly filters out tech/programming content unless it's from a financial source.
     """
-    logging.info("--- Project Trend-Hunter Started ---")
+    logging.info("--- Financial Trend-Hunter Started (Maneko) ---")
     
     # 1. Load Sources Config
     sources = load_source_config()
     all_trends = []
 
-    # Map source types to functions
+    # Map only supported financial source types
     source_map = {
-        "github": fetch_github_trending,
-        "product_hunt": fetch_product_hunt_trends,
-        "hacker_news": fetch_hacker_news_trends,
-        "zenn": fetch_zenn_trends,
-        "qiita": fetch_qiita_trends,
         "news_feed": fetch_rss_trends
+        # Removed: github, product_hunt, zenn, qiita to prevent tech noise
     }
 
     for source in sources:
@@ -68,34 +60,37 @@ def main():
         
         if sType in source_map:
             try:
-                logging.info(f"Fetching from {sType} with params {params}...")
-                # Dispatch with params if function accepts them
-                if sType == "github":
-                    trends = source_map[sType](**params)
+                logging.info(f"Fetching from {sType}: {params.get('name', 'Unknown')}")
+                
+                # Fetch news with parameters (url, name)
+                if sType == "news_feed":
+                    trends = source_map[sType](url=params.get("url"), name=params.get("name"))
                 else:
-                    trends = source_map[sType]() # Others don't take params yet
+                    trends = []
                 
                 all_trends.extend(trends)
             except Exception as e:
                 logging.error(f"Failed to fetch from {sType}: {e}")
 
-    # Get X trends for viral context (Global context, not a source per se)
+    # Get X trends for viral context (Global context)
     x_hot_words = fetch_x_trends()
     
     # 2. Deduplication based on URL
     seen_urls = set()
     unique_trends = []
     for trend in all_trends:
-        if trend["url"] not in seen_urls:
+        url = trend.get("url")
+        if url and url not in seen_urls:
             unique_trends.append(trend)
-            seen_urls.add(trend["url"])
+            seen_urls.add(url)
             
-    # 3. Sort by 'daily_stars' (Ranking signal)
-    sorted_trends = sorted(unique_trends, key=lambda x: x.get("daily_stars", 0), reverse=True)
+    # 3. Sort by freshness (since news doesn't have stars)
+    # Most RSS feeds return newest first, but let's ensure we keep order or shuffle if needed.
+    # For now, we trust the source order.
     
     # 4. Save results
-    save_trends(sorted_trends, x_trends=x_hot_words)
-    logging.info("--- Project Trend-Hunter Completed ---")
+    save_trends(unique_trends, x_trends=x_hot_words)
+    logging.info("--- Financial Trend-Hunter Completed ---")
 
 if __name__ == "__main__":
     main()
