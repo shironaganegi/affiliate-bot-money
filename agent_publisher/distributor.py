@@ -52,13 +52,13 @@ def main():
     
     logger.info(f"Processing (JA): {title}")
 
-    # 1. Qiita (Use Website URL as canonical)
-    qiita = QiitaPublisher()
-    qiita.publish(title, body, website_url)
+    # 1. Qiita (Disabled for Investment Bot)
+    # qiita = QiitaPublisher()
+    # qiita.publish(title, body, website_url)
 
-    # 2. BlueSky (Use Website URL for traffic)
-    bsky = BlueSkyPublisher()
-    bsky.publish(title, website_url)
+    # 2. BlueSky (Disabled to avoid account mixing)
+    # bsky = BlueSkyPublisher()
+    # bsky.publish(title, website_url)
 
     # 3. Twitter (X) (Use Website URL for traffic)
     twitter = TwitterPublisher()
