@@ -3,28 +3,49 @@
         "type": "news_feed",
         "params": {
             "url": "https://coinpost.jp/feed",
-            "name": "CoinPost"
+            "name": "CoinPost (JP)"
         }
     },
     {
         "type": "news_feed",
         "params": {
             "url": "https://jp.cointelegraph.com/rss",
-            "name": "Cointelegraph JP"
+            "name": "Cointelegraph (JP)"
         }
     },
     {
         "type": "news_feed",
         "params": {
-            "url": "https://news.yahoo.co.jp/rss/topics/business.xml",
-            "name": "Yahoo Finance"
+            "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+            "name": "CoinDesk (World)"
         }
     },
     {
         "type": "news_feed",
         "params": {
-            "url": "https://www.coindeskjapan.com/feed/",
-            "name": "CoinDesk Japan"
+            "url": "https://cointelegraph.com/rss",
+            "name": "Cointelegraph (World)"
+        }
+    },
+    {
+        "type": "news_feed",
+        "params": {
+            "url": "https://www.cnbc.com/id/15839076/device/rss/rss.html",
+            "name": "CNBC Investing (English)"
+        }
+    },
+    {
+        "type": "news_feed",
+        "params": {
+            "url": "https://www.reutersagency.com/en/reuterspost/business/feed/",
+            "name": "Reuters Business (World)"
+        }
+    },
+    {
+        "type": "news_feed",
+        "params": {
+            "url": "https://finance.yahoo.com/rss/topstories",
+            "name": "Yahoo Finance (Global)"
         }
     }
 ]
