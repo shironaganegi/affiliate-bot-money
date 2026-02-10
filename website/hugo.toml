@@ -1,4 +1,4 @@
-baseURL = "https://techtrend-watch.com/"
+baseURL = "https://shironaganegi.github.io/affiliate-bot-money/"
 defaultContentLanguage = 'ja'
 defaultContentLanguageInSubdir = false
 theme = "PaperMod"
@@ -7,12 +7,12 @@ theme = "PaperMod"
   [languages.ja]
     languageName = "Japanese"
     weight = 1
-    title = "TechTrend Watch"
+    title = "Future Money Watch"
     [languages.ja.params]
-      description = "AIが厳選する、今日の最新技術トレンド"
+      description = "AIが分析する、仮想通貨・金融・資産形成の最新トレンド"
       [languages.ja.params.homeInfoParams]
-        Title = "TechTrend Watch 🚀"
-        Content = "世界中のGitHub、HackerNews、Qiitaから、今注目すべき技術トレンドをAIが毎日発掘・要約してお届けします。"
+        Title = "Future Money Watch 📈"
+        Content = "世界中の金融ニュース、仮想通貨トレンド、資産形成術をAIが毎日発掘・徹底分析してお届けします。"
 
     [languages.ja.menu]
       [[languages.ja.menu.main]]
@@ -30,26 +30,16 @@ theme = "PaperMod"
         name = "Search 🔍"
         url = "/search/"
         weight = 30
-      [[languages.ja.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about/"
-        weight = 40
-      [[languages.ja.menu.main]]
-        identifier = "contact"
-        name = "Contact"
-        url = "/contact/"
-        weight = 60
 
   [languages.en]
     languageName = "English"
     weight = 2
-    title = "TechTrend Watch"
+    title = "Future Money Watch"
     [languages.en.params]
-      description = "Daily Tech Trends Curated by AI"
+      description = "AI-Driven Investment & Crypto Trends"
       [languages.en.params.homeInfoParams]
-        Title = "TechTrend Watch 🚀"
-        Content = "Daily curated tech trends from GitHub, Hacker News, and more. Summarized by AI."
+        Title = "Future Money Watch 📈"
+        Content = "Daily curated investment and crypto trends. Summarized by AI Analyst."
 
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -62,16 +52,11 @@ theme = "PaperMod"
         name = "Search 🔍"
         url = "/en/search/"
         weight = 30
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/en/about/"
-        weight = 40
 
 [params]
   defaultTheme = "auto"
-  description = "AIが厳選する、今日の最新技術トレンド"
-  author = "TechTrend Observer"
+  description = "AIが分析する、仮想通貨・金融・資産形成の最新トレンド"
+  author = "Financial AI Analyst"
   
   # Site Features
   ShowReadingTime = true
@@ -82,12 +67,12 @@ theme = "PaperMod"
   ShowToc = true
   
   [params.homeInfoParams]
-    Title = "TechTrend Watch 🚀"
-    Content = "世界中のGitHub、HackerNews、Qiitaから、今注目すべき技術トレンドをAIが毎日発掘・要約してお届けします。"
+    Title = "Future Money Watch 📈"
+    Content = "世界中の金融ニュース、仮想通貨トレンド、資産形成術をAIが毎日発掘・徹底分析してお届けします。"
 
   [[params.socialIcons]]
      name = "github"
-     url = "https://github.com/shironaganegi/ai-affiliate-bot-1"
+     url = "https://github.com/shironaganegi/affiliate-bot-money"
      
   [params.fuseOpts]
     isCaseSensitive = false
@@ -99,8 +84,8 @@ theme = "PaperMod"
     keys = ["title", "permalink", "summary", "content"]
 
 [services]
-  [services.googleAnalytics]
-    id = "G-T3QN96SJXT" # TechTrend Watch
+  # [services.googleAnalytics]
+  #   id = "G-XXXXXXXXXX" # To be set for Money Bot
 
 [markup.goldmark.renderer]
   unsafe = true # Allow raw HTML (for affiliate links etc)
