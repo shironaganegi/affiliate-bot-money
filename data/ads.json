@@ -68,6 +68,38 @@
         "active": true
     },
     {
+        "id": "money_forward_tax_300",
+        "name": "Money Forward Cloud Tax (300x250)",
+        "keywords": [
+            "確定申告",
+            "税金",
+            "会計",
+            "経理",
+            "青色申告",
+            "白色申告",
+            "インボイス"
+        ],
+        "campaign_url": "https://px.a8.net/svt/ejp?a8mat=4AX7WD+G0BN4Q+3SPO+C8MHDT",
+        "click_text": "初めての確定申告に！【マネーフォワード クラウド】",
+        "description": "銀行口座やクレカと連携して、面倒な確定申告を自動化。投資の利益計算にも便利。",
+        "html": "<a href=\"https://px.a8.net/svt/ejp?a8mat=4AX7WD+G0BN4Q+3SPO+C8MHDT\" rel=\"nofollow\">\n<img border=\"0\" width=\"300\" height=\"250\" alt=\"\" src=\"https://www29.a8.net/svt/bgt?aid=260210749968&wid=002&eno=01&mid=s00000017718074008000&mc=1\"></a>\n<img border=\"0\" width=\"1\" height=\"1\" src=\"https://www11.a8.net/0.gif?a8mat=4AX7WD+G0BN4Q+3SPO+C8MHDT\" alt=\"\">",
+        "active": true
+    },
+    {
+        "id": "money_forward_tax_text",
+        "name": "Money Forward Cloud Tax (Text Link)",
+        "keywords": [
+            "確定申告",
+            "申告",
+            "税務"
+        ],
+        "campaign_url": "https://px.a8.net/svt/ejp?a8mat=4AX7WD+G0BN4Q+3SPO+C8L736",
+        "click_text": "初めての確定申告に！【マネーフォワード クラウド】",
+        "description": "仕訳はまるで家計簿感覚！日々の経理や年1回の申告書等をラクにするなら。",
+        "html": "<a href=\"https://px.a8.net/svt/ejp?a8mat=4AX7WD+G0BN4Q+3SPO+C8L736\" rel=\"nofollow\">初めての確定申告に！【マネーフォワード クラウド】</a>\n<img border=\"0\" width=\"1\" height=\"1\" src=\"https://www16.a8.net/0.gif?a8mat=4AX7WD+G0BN4Q+3SPO+C8L736\" alt=\"\">",
+        "active": true
+    },
+    {
         "id": "coincheck",
         "name": "Coincheck",
         "keywords": [
