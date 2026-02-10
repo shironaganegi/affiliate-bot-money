@@ -1,5 +1,40 @@
 [
     {
+        "id": "financial_academy_school",
+        "name": "Financial Academy (Stock Investment School)",
+        "keywords": [
+            "株",
+            "株式投資",
+            "NISA",
+            "資産形成",
+            "投資スクール",
+            "勉強",
+            "セミナー",
+            "ファイナンシャルアカデミー",
+            "お金の学校"
+        ],
+        "campaign_url": "https://px.a8.net/svt/ejp?a8mat=4AX7WD+805TKI+1IRY+25HS3L",
+        "click_text": "【公式】株式投資の学校で「勝てる投資家」になる",
+        "description": "自己流の投資で損をしていませんか？プロから体系的に学んで、一生モノのスキルを身につけましょう。",
+        "html": "<a href=\"https://px.a8.net/svt/ejp?a8mat=4AX7WD+805TKI+1IRY+25HS3L\" rel=\"nofollow\">\n<img border=\"0\" width=\"300\" height=\"250\" alt=\"\" src=\"https://www24.a8.net/svt/bgt?aid=260210749484&wid=001&eno=01&mid=s00000007099013016000&mc=1\"></a>\n<img border=\"0\" width=\"1\" height=\"1\" src=\"https://www13.a8.net/0.gif?a8mat=4AX7WD+805TKI+1IRY+25HS3L\" alt=\"\">",
+        "active": true
+    },
+    {
+        "id": "financial_academy_text",
+        "name": "Financial Academy (Text Link)",
+        "keywords": [
+            "初心者",
+            "入門",
+            "基礎",
+            "学ぶ"
+        ],
+        "campaign_url": "https://px.a8.net/svt/ejp?a8mat=4AX7WD+805TKI+1IRY+25H4YA",
+        "click_text": "株式投資を学ぶならファイナンシャルアカデミー",
+        "description": "受講生の約9割がプラスの運用実績。まずは無料体験セミナーへ。",
+        "html": "<a href=\"https://px.a8.net/svt/ejp?a8mat=4AX7WD+805TKI+1IRY+25H4YA\" rel=\"nofollow\">株式投資を学ぶならファイナンシャルアカデミー</a>\n<img border=\"0\" width=\"1\" height=\"1\" src=\"https://www15.a8.net/0.gif?a8mat=4AX7WD+805TKI+1IRY+25H4YA\" alt=\"\">",
+        "active": true
+    },
+    {
         "id": "coincheck",
         "name": "Coincheck",
         "keywords": [
@@ -11,8 +46,8 @@
             "イーサリアム",
             "ETH"
         ],
-        "campaign_url": "YOUR_AFFILIATE_LINK_HERE",
-        "click_text": "【PR】まずはCoincheckでビットコインを500円から始める",
+        "campaign_url": "#",
+        "click_text": "【PR】Coincheckでビットコインを始める",
         "description": "国内最大級の仮想通貨取引所。初心者にも使いやすいアプリが人気です。",
         "active": true
     },
@@ -25,38 +60,9 @@
             "bitFlyer",
             "ビットフライヤー"
         ],
-        "campaign_url": "YOUR_AFFILIATE_LINK_HERE",
+        "campaign_url": "#",
         "click_text": "【PR】bitFlyerで安心の取引を始める",
         "description": "ビットコイン取引量No.1の実績。セキュリティ重視ならここ。",
-        "active": true
-    },
-    {
-        "id": "rakuten_sec",
-        "name": "Rakuten Securities",
-        "keywords": [
-            "NISA",
-            "つみたてNISA",
-            "投資信託",
-            "株",
-            "楽天証券"
-        ],
-        "campaign_url": "YOUR_AFFILIATE_LINK_HERE",
-        "click_text": "【PR】楽天ポイントが貯まる！楽天証券口座開設はこちら",
-        "description": "投資初心者に大人気のネット証券。楽天ポイントで投資デビュー！",
-        "active": true
-    },
-    {
-        "id": "sbi_sec",
-        "name": "SBI Securities",
-        "keywords": [
-            "SBI証券",
-            "NISA",
-            "IPO",
-            "資産運用"
-        ],
-        "campaign_url": "YOUR_AFFILIATE_LINK_HERE",
-        "click_text": "【PR】ネット証券No.1！SBI証券の口座開設はこちら",
-        "description": "手数料の安さと取扱商品の豊富さが魅力。メイン口座におすすめ。",
         "active": true
     }
 ]
