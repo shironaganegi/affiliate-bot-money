@@ -1,17 +1,5 @@
 [
     {
-        "type": "github",
-        "params": {
-            "language": "solidity"
-        }
-    },
-    {
-        "type": "github",
-        "params": {
-            "language": "rust"
-        }
-    },
-    {
         "type": "news_feed",
         "params": {
             "url": "https://coinpost.jp/feed",
@@ -21,8 +9,22 @@
     {
         "type": "news_feed",
         "params": {
+            "url": "https://jp.cointelegraph.com/rss",
+            "name": "Cointelegraph JP"
+        }
+    },
+    {
+        "type": "news_feed",
+        "params": {
             "url": "https://news.yahoo.co.jp/rss/topics/business.xml",
             "name": "Yahoo Finance"
+        }
+    },
+    {
+        "type": "news_feed",
+        "params": {
+            "url": "https://www.coindeskjapan.com/feed/",
+            "name": "CoinDesk Japan"
         }
     }
 ]
