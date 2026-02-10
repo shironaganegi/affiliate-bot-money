@@ -6,10 +6,10 @@
       "owner": "pydantic",
       "url": "https://github.com/pydantic/monty",
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
-      "stars": 4158,
+      "stars": 4178,
       "daily_stars": 1291,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.095085"
+      "fetched_at": "2026-02-10T08:13:11.081529"
     },
     {
       "source": "github",
@@ -17,10 +17,10 @@
       "owner": "gitbutlerapp",
       "url": "https://github.com/gitbutlerapp/gitbutler",
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
-      "stars": 18718,
+      "stars": 18727,
       "daily_stars": 376,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.095544"
+      "fetched_at": "2026-02-10T08:13:11.082043"
     },
     {
       "source": "github",
@@ -28,10 +28,10 @@
       "owner": "microsoft",
       "url": "https://github.com/microsoft/litebox",
       "description": "A security-focused library OS supporting kernel- and user-mode execution",
-      "stars": 1775,
+      "stars": 1780,
       "daily_stars": 354,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.095977"
+      "fetched_at": "2026-02-10T08:13:11.082545"
     },
     {
       "source": "github",
@@ -39,10 +39,10 @@
       "owner": "reacherhq",
       "url": "https://github.com/reacherhq/check-if-email-exists",
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
-      "stars": 8218,
+      "stars": 8221,
       "daily_stars": 259,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.104104"
+      "fetched_at": "2026-02-10T08:13:11.091418"
     },
     {
       "source": "github",
@@ -50,10 +50,10 @@
       "owner": "nushell",
       "url": "https://github.com/nushell/nushell",
       "description": "A new type of shell",
-      "stars": 38252,
+      "stars": 38253,
       "daily_stars": 45,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.096420"
+      "fetched_at": "2026-02-10T08:13:11.083030"
     },
     {
       "source": "github",
@@ -64,7 +64,7 @@
       "stars": 28905,
       "daily_stars": 40,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.096845"
+      "fetched_at": "2026-02-10T08:13:11.083541"
     },
     {
       "source": "github",
@@ -75,7 +75,7 @@
       "stars": 9797,
       "daily_stars": 32,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.105087"
+      "fetched_at": "2026-02-10T08:13:11.092492"
     },
     {
       "source": "github",
@@ -83,10 +83,10 @@
       "owner": "topjohnwu",
       "url": "https://github.com/topjohnwu/Magisk",
       "description": "The Magic Mask for Android",
-      "stars": 58627,
+      "stars": 58630,
       "daily_stars": 29,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.097801"
+      "fetched_at": "2026-02-10T08:13:11.084524"
     },
     {
       "source": "github",
@@ -94,10 +94,10 @@
       "owner": "DioxusLabs",
       "url": "https://github.com/DioxusLabs/dioxus",
       "description": "Fullstack app framework for web, desktop, and mobile.",
-      "stars": 34639,
+      "stars": 34638,
       "daily_stars": 29,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.102807"
+      "fetched_at": "2026-02-10T08:13:11.089968"
     },
     {
       "source": "github",
@@ -105,10 +105,10 @@
       "owner": "rust-lang",
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
-      "stars": 110166,
+      "stars": 110168,
       "daily_stars": 28,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.101287"
+      "fetched_at": "2026-02-10T08:13:11.088235"
     },
     {
       "source": "github",
@@ -119,7 +119,7 @@
       "stars": 24076,
       "daily_stars": 23,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.100011"
+      "fetched_at": "2026-02-10T08:13:11.086808"
     },
     {
       "source": "github",
@@ -127,10 +127,10 @@
       "owner": "bevyengine",
       "url": "https://github.com/bevyengine/bevy",
       "description": "A refreshingly simple data-driven game engine built in Rust",
-      "stars": 44563,
+      "stars": 44565,
       "daily_stars": 21,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.101707"
+      "fetched_at": "2026-02-10T08:13:11.088758"
     },
     {
       "source": "github",
@@ -138,10 +138,10 @@
       "owner": "microsoft",
       "url": "https://github.com/microsoft/edit",
       "description": "We all edit.",
-      "stars": 13473,
+      "stars": 13474,
       "daily_stars": 19,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.100437"
+      "fetched_at": "2026-02-10T08:13:11.087278"
     },
     {
       "source": "github",
@@ -152,7 +152,7 @@
       "stars": 5793,
       "daily_stars": 19,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.102261"
+      "fetched_at": "2026-02-10T08:13:11.089373"
     },
     {
       "source": "github",
@@ -163,7 +163,7 @@
       "stars": 106111,
       "daily_stars": 18,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.103668"
+      "fetched_at": "2026-02-10T08:13:11.090935"
     },
     {
       "source": "github",
@@ -174,7 +174,7 @@
       "stars": 1587,
       "daily_stars": 16,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.105505"
+      "fetched_at": "2026-02-10T08:13:11.092960"
     },
     {
       "source": "github",
@@ -185,7 +185,7 @@
       "stars": 38046,
       "daily_stars": 15,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.103246"
+      "fetched_at": "2026-02-10T08:13:11.090461"
     },
     {
       "source": "github",
@@ -196,7 +196,7 @@
       "stars": 17368,
       "daily_stars": 13,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.097367"
+      "fetched_at": "2026-02-10T08:13:11.084025"
     },
     {
       "source": "github",
@@ -204,10 +204,10 @@
       "owner": "leptos-rs",
       "url": "https://github.com/leptos-rs/leptos",
       "description": "Build fast web applications with Rust.",
-      "stars": 19967,
+      "stars": 19970,
       "daily_stars": 13,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.099436"
+      "fetched_at": "2026-02-10T08:13:11.086183"
     },
     {
       "source": "github",
@@ -218,7 +218,7 @@
       "stars": 5785,
       "daily_stars": 11,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.100860"
+      "fetched_at": "2026-02-10T08:13:11.087768"
     },
     {
       "source": "github",
@@ -229,7 +229,7 @@
       "stars": 1933,
       "daily_stars": 7,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.104654"
+      "fetched_at": "2026-02-10T08:13:11.092013"
     },
     {
       "source": "github",
@@ -240,7 +240,7 @@
       "stars": 26980,
       "daily_stars": 6,
       "language": "solidity",
-      "fetched_at": "2026-02-10T07:37:09.312202"
+      "fetched_at": "2026-02-10T08:13:09.490457"
     },
     {
       "source": "github",
@@ -251,7 +251,7 @@
       "stars": 1899,
       "daily_stars": 2,
       "language": "rust",
-      "fetched_at": "2026-02-10T07:37:11.098254"
+      "fetched_at": "2026-02-10T08:13:11.085009"
     },
     {
       "source": "github",
@@ -262,7 +262,7 @@
       "stars": 132,
       "daily_stars": 1,
       "language": "solidity",
-      "fetched_at": "2026-02-10T07:37:09.309836"
+      "fetched_at": "2026-02-10T08:13:09.487883"
     },
     {
       "source": "github",
@@ -273,7 +273,7 @@
       "stars": 3274,
       "daily_stars": 1,
       "language": "solidity",
-      "fetched_at": "2026-02-10T07:37:09.310895"
+      "fetched_at": "2026-02-10T08:13:09.489015"
     },
     {
       "source": "github",
@@ -284,7 +284,7 @@
       "stars": 299,
       "daily_stars": 1,
       "language": "solidity",
-      "fetched_at": "2026-02-10T07:37:09.311763"
+      "fetched_at": "2026-02-10T08:13:09.489971"
     },
     {
       "source": "github",
@@ -295,7 +295,7 @@
       "stars": 176,
       "daily_stars": 0,
       "language": "solidity",
-      "fetched_at": "2026-02-10T07:37:09.310324"
+      "fetched_at": "2026-02-10T08:13:09.488408"
     },
     {
       "source": "github",
@@ -306,7 +306,7 @@
       "stars": 1159,
       "daily_stars": 0,
       "language": "solidity",
-      "fetched_at": "2026-02-10T07:37:09.311349"
+      "fetched_at": "2026-02-10T08:13:09.489513"
     },
     {
       "source": "github",
@@ -317,7 +317,7 @@
       "stars": 2005,
       "daily_stars": 0,
       "language": "solidity",
-      "fetched_at": "2026-02-10T07:37:09.312635"
+      "fetched_at": "2026-02-10T08:13:09.490932"
     },
     {
       "source": "github",
@@ -328,7 +328,7 @@
       "stars": 499,
       "daily_stars": 0,
       "language": "solidity",
-      "fetched_at": "2026-02-10T07:37:09.313083"
+      "fetched_at": "2026-02-10T08:13:09.491424"
     },
     {
       "source": "github",
@@ -339,7 +339,7 @@
       "stars": 203,
       "daily_stars": 0,
       "language": "solidity",
-      "fetched_at": "2026-02-10T07:37:09.313587"
+      "fetched_at": "2026-02-10T08:13:09.491966"
     },
     {
       "source": "github",
@@ -350,7 +350,7 @@
       "stars": 265,
       "daily_stars": 0,
       "language": "solidity",
-      "fetched_at": "2026-02-10T07:37:09.314030"
+      "fetched_at": "2026-02-10T08:13:09.492458"
     },
     {
       "source": "github",
@@ -361,7 +361,7 @@
       "stars": 191,
       "daily_stars": 0,
       "language": "solidity",
-      "fetched_at": "2026-02-10T07:37:09.314455"
+      "fetched_at": "2026-02-10T08:13:09.492939"
     },
     {
       "source": "github",
@@ -372,7 +372,7 @@
       "stars": 234,
       "daily_stars": 0,
       "language": "solidity",
-      "fetched_at": "2026-02-10T07:37:09.314881"
+      "fetched_at": "2026-02-10T08:13:09.493426"
     },
     {
       "source": "github",
@@ -383,7 +383,7 @@
       "stars": 110,
       "daily_stars": 0,
       "language": "solidity",
-      "fetched_at": "2026-02-10T07:37:09.315308"
+      "fetched_at": "2026-02-10T08:13:09.493895"
     }
   ],
   "x_hot_words": [
