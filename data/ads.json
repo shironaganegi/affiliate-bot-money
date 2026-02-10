@@ -1,42 +1,62 @@
 [
     {
-        "name": "XServer VPS (AI開発)",
-        "html": "\n[DifyでAIアプリを開発するなら『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)\n![](https://www15.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)\n"
+        "id": "coincheck",
+        "name": "Coincheck",
+        "keywords": [
+            "ビットコイン",
+            "BTC",
+            "仮想通貨",
+            "クリプト",
+            "Coincheck",
+            "イーサリアム",
+            "ETH"
+        ],
+        "campaign_url": "YOUR_AFFILIATE_LINK_HERE",
+        "click_text": "【PR】まずはCoincheckでビットコインを500円から始める",
+        "description": "国内最大級の仮想通貨取引所。初心者にも使いやすいアプリが人気です。",
+        "active": true
     },
     {
-        "name": "XServer VPS (Minecraft)",
-        "html": "\nMinecraftマルチプレイするなら[『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25FUNM)\n![](https://www19.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25FUNM)\n"
+        "id": "bitflyer",
+        "name": "bitFlyer",
+        "keywords": [
+            "ビットコイン",
+            "BTC",
+            "bitFlyer",
+            "ビットフライヤー"
+        ],
+        "campaign_url": "YOUR_AFFILIATE_LINK_HERE",
+        "click_text": "【PR】bitFlyerで安心の取引を始める",
+        "description": "ビットコイン取引量No.1の実績。セキュリティ重視ならここ。",
+        "active": true
     },
     {
-        "name": "XServer VPS (汎用)",
-        "html": "\n[国内シェアNo.1のエックスサーバーが提供するVPSサーバー『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)\n![](https://www11.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)\n"
+        "id": "rakuten_sec",
+        "name": "Rakuten Securities",
+        "keywords": [
+            "NISA",
+            "つみたてNISA",
+            "投資信託",
+            "株",
+            "楽天証券"
+        ],
+        "campaign_url": "YOUR_AFFILIATE_LINK_HERE",
+        "click_text": "【PR】楽天ポイントが貯まる！楽天証券口座開設はこちら",
+        "description": "投資初心者に大人気のネット証券。楽天ポイントで投資デビュー！",
+        "active": true
     },
     {
-        "name": "ConoHa WING (AIブログツール)",
-        "html": "\n[ConoHa Pencil でブログ運営を超効率化](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SXFLU)\n![](https://www12.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SXFLU)\n"
-    },
-    {
-        "name": "ConoHa WING (コスパ抜群1時間2円)",
-        "html": "\n[1時間2円から、国内最速・高性能レンタルサーバー【ConoHa WING】](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SJACI)\n![](https://www17.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SJACI)\n"
-    },
-    {
-        "name": "ConoHa WING (国内最速・安定)",
-        "html": "\n[国内最速・高安定の高性能レンタルサーバー【ConoHa WING】](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SI01U)\n![](https://www11.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SI01U)\n"
-    },
-    {
-        "name": "お名前.com (キャッチー)",
-        "html": "\n[世界にたった一つ、あなただけのドメインを登録しよう！](https://px.a8.net/svt/ejp?a8mat=4AX38F+M125U+50+2HE0RM)\n![](https://www15.a8.net/0.gif?a8mat=4AX38F+M125U+50+2HE0RM)\n"
-    },
-    {
-        "name": "お名前.com (煽り系)",
-        "html": "\n[【早い者勝ち！】 あなたのお名前、残ってる？](https://px.a8.net/svt/ejp?a8mat=4AX38F+M125U+50+2HCY6Q)\n![](https://www15.a8.net/0.gif?a8mat=4AX38F+M125U+50+2HCY6Q)\n"
-    },
-    {
-        "name": "お名前.com (シンプル)",
-        "html": "\n[お名前.com](https://px.a8.net/svt/ejp?a8mat=4AX38F+M125U+50+2HHVNM)\n![](https://www11.a8.net/0.gif?a8mat=4AX38F+M125U+50+2HHVNM)\n"
-    },
-    {
-        "name": "スッキリわかるPython入門 第2版",
-        "html": "\n[スッキリわかるPython入門 第2版 (楽天ブックス)](https://rpx.a8.net/svt/ejp?a8mat=4AX38F+LFMK2+2HOM+BW8O1&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eac8dc2.9a477d4e.0eac8dc3.0aa56a48%2Fa26020474676_4AX38F_LFMK2_2HOM_BW8O1%3Fpc%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703%26m%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703)\n![](https://www16.a8.net/0.gif?a8mat=4AX38F+LFMK2+2HOM+BW8O1)\n"
+        "id": "sbi_sec",
+        "name": "SBI Securities",
+        "keywords": [
+            "SBI証券",
+            "NISA",
+            "IPO",
+            "資産運用"
+        ],
+        "campaign_url": "YOUR_AFFILIATE_LINK_HERE",
+        "click_text": "【PR】ネット証券No.1！SBI証券の口座開設はこちら",
+        "description": "手数料の安さと取扱商品の豊富さが魅力。メイン口座におすすめ。",
+        "active": true
     }
 ]

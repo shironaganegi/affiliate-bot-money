@@ -11,6 +11,18 @@ logger = setup_logging(__name__)
 class AffiliateManager:
     def __init__(self):
         self.books_db = self._load_books_db()
+        self.ads_db = self._load_ads_db()
+
+    def _load_ads_db(self):
+        """Loads custom affiliate ads (high ticket)"""
+        db_path = os.path.join(config.DATA_DIR, "ads.json")
+        try:
+            if os.path.exists(db_path):
+                with open(db_path, "r", encoding="utf-8") as f:
+                    return json.load(f)
+        except Exception as e:
+            logger.error(f"Failed to load ads DB: {e}")
+        return []
 
     def _load_books_db(self):
         db_path = os.path.join(config.DATA_DIR, "technical_books.json")
@@ -33,7 +45,13 @@ class AffiliateManager:
         reccomendations = []
         html_output = ""
 
-        # 1. Search for Tech Books first
+        # 0. Custom High-Ticket Ads (Priority #1)
+        found_ad = self._search_custom_ads(article_text, keywords)
+        if found_ad:
+            logger.info(f"Found custom ad match: {found_ad['name']}")
+            html_output += self._format_custom_ad(found_ad)
+        
+        # 1. Search for Tech/Investment Books (Priority #2)
         found_books = self._search_books(article_text, keywords)
         if found_books:
             logger.info(f"Found related books: {found_books}")
@@ -85,7 +103,46 @@ class AffiliateManager:
         
         # Shuffle to avoid same book every time
         random.shuffle(candidates)
+        random.shuffle(candidates)
         return candidates
+
+    def _search_custom_ads(self, text, keywords):
+        """Check if any custom ad keywords match the article context."""
+        text_lower = text.lower()
+        if not self.ads_db:
+            return None
+            
+        # Shuffle ads to give equal chance if multiple match
+        candidates = [ad for ad in self.ads_db if ad.get("active", True)]
+        random.shuffle(candidates)
+
+        for ad in candidates:
+            # Check against ad specific keywords
+            ad_keywords = ad.get("keywords", [])
+            # Search in article text or provided keywords
+            if any(k.lower() in text_lower for k in ad_keywords) or \
+               any(any(k.lower() in kw.lower() for kw in keywords) for k in ad_keywords):
+                
+                # Check if URL is set (not placeholder)
+                if "YOUR_AFFILIATE_LINK_HERE" not in ad.get("campaign_url", ""):
+                    return ad
+        return None
+
+    def _format_custom_ad(self, ad):
+        """Formats a custom ad as a prominent button or box."""
+        url = ad.get("campaign_url", "#")
+        text = ad.get("click_text", "詳細はこちら")
+        desc = ad.get("description", "")
+        
+        return f"""
+<div style="border: 2px solid #e5e7eb; padding: 20px; margin: 20px 0; border-radius: 8px; background-color: #f9fafb; text-align: center;">
+    <p style="font-weight: bold; margin-bottom: 10px; color: #1f2937;">{desc}</p>
+    <a href="{url}" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #2563eb; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; transition: background-color 0.3s;">
+        {text} 
+    </a>
+    <p style="font-size: 0.8em; color: #6b7280; margin-top: 5px;">(PR)</p>
+</div>
+"""
 
     def _wrap_output(self, html):
         return f"\n<!-- AFFILIATE_START -->\n{html}\n<!-- AFFILIATE_END -->\n"
