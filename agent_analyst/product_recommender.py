@@ -1,84 +1,77 @@
 import os
-import requests
-from dotenv import load_dotenv
+import json
+import random
+import logging
+from shared.config import config
 
-load_dotenv()
+logger = logging.getLogger(__name__)
 
-RAKUTEN_APP_ID = os.getenv("RAKUTEN_APP_ID")
-RAKUTEN_AFFILIATE_ID = os.getenv("RAKUTEN_AFFILIATE_ID")
-
-def _search_rakuten(keyword):
-    """
-    Searches items on Rakuten Ichiba using the Item Search API.
-    """
-    if not RAKUTEN_APP_ID:
-        print("WARNING: RAKUTEN_APP_ID is not set.")
-        return []
-
-    url = "https://app.rakuten.co.jp/services/api/IchibaItem/Search/20170426"
-    params = {
-        "applicationId": RAKUTEN_APP_ID,
-        "affiliateId": RAKUTEN_AFFILIATE_ID,
-        "keyword": keyword,
-        "format": "json",
-        "hits": 3,
-        "sort": "reviewCount"
-    }
-
+def load_ads():
     try:
-        response = requests.get(url, params=params, timeout=10)
-        
-        if response.status_code != 200:
-            print(f"DEBUG: Rakuten API Error {response.status_code}: {response.text}")
-            return []
-            
-        data = response.json()
-        items = data.get("Items", [])
-        
-        if not items:
-            print(f"DEBUG: No items found for keyword '{keyword}' (Rakuten)")
-            # Check for API error structure in 200 OK (rare but possible)
-            if "error" in data:
-                 print(f"DEBUG: API returned error in body: {data}")
-
-        
-        html_results = []
-        for item_wrapper in items:
-            item = item_wrapper.get("Item", {})
-            name = item.get("itemName")
-            price = item.get("itemPrice")
-            url = item.get("affiliateUrl")
-            image = item.get("mediumImageUrls", [{}])[0].get("imageUrl")
-            
-            # Use Markdown instead of HTML for Zenn compatibility
-            # Zenn Format:
-            # [![Image](ImageURL)](AffiliateURL)
-            # [ItemName](AffiliateURL) (Current Price: X Yen)
-            
-            markdown = f"""
-[![{name}]({image})]({url})
-[{name}]({url}) (価格: {price}円)
-"""
-            html_results.append(markdown)
-        return html_results
-
+        with open(config.ADS_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
     except Exception as e:
-        print(f"Rakuten search error: {e}")
+        logger.error(f"Failed to load ads from {config.ADS_FILE}: {e}")
         return []
 
-def _search_amazon(keyword):
+def search_related_items(keywords):
     """
-    Placeholder for Amazon Product Advertising API.
+    Selects the best financial affiliate offer based on keywords.
+    Instead of searching for random goods (t-shirts, mugs) on Rakuten,
+    we prioritize high-ticket financial services (Exchanges, NISA).
     """
-    # Requires PA-API keys which are harder to get initially.
+    if isinstance(keywords, str):
+        keywords = [keywords]
+    
+    ads = load_ads()
+    if not ads:
+        return ""
+
+    # Normalize keywords for matching
+    keywords_lower = [k.lower() for k in keywords]
+    
+    matched_ad = None
+    
+    # 1. Try to find a matching ad based on keywords
+    # e.g. if keyword is "Bitcoin", show Coincheck or bitFlyer
+    for ad in ads:
+        ad_keywords = [k.lower() for k in ad.get('keywords', [])]
+        # Check if any article keyword matches any ad keyword
+        if any(ak in ' '.join(keywords_lower) for ak in ad_keywords):
+            matched_ad = ad
+            break
+    
+    # 2. Fallback: If no match, pick a random active ad (General Appeal)
+    if not matched_ad:
+        active_ads = [ad for ad in ads if ad.get('active', True)]
+        if active_ads:
+            matched_ad = random.choice(active_ads)
+            
+    if not matched_ad:
+        return ""
+
+    # Generate HTML/Markdown for the ad
+    campaign_url = matched_ad.get('campaign_url', '#')
+    click_text = matched_ad.get('click_text', '詳細はこちら')
+    description = matched_ad.get('description', '')
+    
+    # Professional Call-to-Action Card for Zenn/Blog
+    ad_html = f"""
+:::message alert
+**💰 【PR】資産形成の第一歩**
+
+**{click_text}**
+
+{description}
+
+👉 [公式サイトでキャンペーンを確認する]({campaign_url})
+:::
+"""
+    return ad_html
+
+# Legacy functions kept for interface compatibility but redirected
+def _search_rakuten(keyword):
     return []
 
-def search_related_items(keyword):
-    """
-    Combines search results from multiple platforms.
-    """
-    print(f"Searching products for: {keyword}")
-    results = []
-    results.extend(_search_rakuten(keyword))
-    results.extend(_search_amazon(keyword))
-    return results
+def _search_amazon(keyword):
+    return []
