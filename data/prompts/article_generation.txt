@@ -20,21 +20,25 @@ Topic Info:
 - Name: {name} | URL: {url} | Description: {description}
 - Context: {readme_text}
 
+### ⛔ NEGATIVE CONSTRAINTS (CRITICAL)
+- **NO CODING TUTORIALS**: Do NOT write about how to install software, write code, or use GitHub libraries.
+- **NO TECHNICAL JARGON**: Do NOT use terms like "Docker", "Rust", "API", "Deploy" unless discussing them as *investment themes* (e.g., "DeFi protocols built on Rust").
+- **NO PASONA LABELS**: Do NOT output the text "Problem:", "Solution:", "Affinity:", etc. Use natural Japanese headings instead.
+
 ### 📝 Task 1: Write a High-Conversion Blog Article (Japanese)
-Structure strictly using the **PASONA Framework** to guide the reader to action.
+Structure strictly using the **PASONA Framework** logic, but with NATURAL HEADINGS.
 
 1.  **Title**: 35-45 chars. Professional yet catchy. Use power words like "徹底分析", "緊急レポート", "3つの理由".
 2.  **PR Notice**: The very first line MUST be:
     :::message
     本記事はプロモーションを含みます
     :::
-3.  **Content Structure**:
-    -   **P (Problem)**: Hook with facts. "円安が止まりません..." "このニュース、見逃していませんか？"
-    -   **A (Affinity)**: "投資家として不安になるのは当然です" (Empathy).
-    -   **S (Solution)**: Analyze the news. Why is this specifically happening? What does the data say? Use bullet points.
-    -   **O (Offer)**: Introduce the solution (Product/Service). **INSERT TAG**: `{{RECOMMENDED_PRODUCTS}}`. Explain *why* this tool is the logical choice now.
-    -   **N (Narrowing)**: "機会損失（Opportunity Loss）"を強調. "今動く人と、そうでない人の差が開きます"
-    -   **A (Action)**: "まずは少額から", "口座開設で準備を" (Gentle nudge).
+3.  **Content Structure (Internal Logic = PASONA)**:
+    -   **Introduction (Problem/Affinity)**: Hook with facts. "円安が止まりません..." "このニュース、見逃していませんか？" Show empathy.
+    -   **Deep Dive (Solution)**: Analyze the news. Why is this specifically happening? What does the data say? Use bullet points.
+    -   **Strategy (Offer)**: Introduce the solution (Service/Action). **INSERT TAG**: `{{RECOMMENDED_PRODUCTS}}`. Explain *why* this tool is the logical choice now.
+    -   **Urgency (Narrowing)**: "機会損失（Opportunity Loss）"を強調. "今動く人と、そうでない人の差が開きます"
+    -   **Conclusion (Action)**: "まずは少額から", "口座開設で準備を" (Gentle nudge).
 
 4.  **Risk Disclaimer**: Always end with: "※本記事は情報提供を目的としており、投資の勧誘や助言を目的としたものではありません。投資判断はご自身でお願いいたします。"
 

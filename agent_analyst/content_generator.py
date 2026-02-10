@@ -71,7 +71,9 @@ def generate_article(tool_data, x_hot_words=[]):
     url = tool_data.get('url')
     
     print(f"Analyzing {name}...")
-    readme_text = get_readme_content(url)
+    # REMOVED: readme_text lookup (get_readme_content) - purely news based now
+    readme_text = f"News Context: {description}"
+    
     failure_context = mine_failures(name)
     x_context = ", ".join(x_hot_words[:10])
     
@@ -84,7 +86,7 @@ def generate_article(tool_data, x_hot_words=[]):
         name=name,
         url=url,
         description=description,
-        readme_text=readme_text[:5000],
+        readme_text=readme_text, # Passed as context
         failure_context=failure_context,
         x_context=x_context
     )
@@ -173,12 +175,12 @@ def translate_article_to_english(content):
     content = re.sub(r':::message[\s\S]*?:::\n?', '', content)
 
     prompt = f"""
-    You are a professional Tech Translator.
+    You are a professional Financial Translator.
     Translate the following Japanese Markdown blog post into high-quality English.
     
     Requirements:
     - Keep the Markdown format exactly as is (headings, links, code blocks).
-    - Maintain the professional and insightful tone.
+    - Maintain the professional authoritative tone.
     - Translate "Recommended Products" section naturally (or keep affiliate links if they are universal, otherwise keep them).
     - Do NOT translate the Frontmatter (YAML block at the top), I will handle it programmatically, BUT if you see it, just leave it or ignore it. 
     - Output ONLY the translated markdown content.
@@ -241,10 +243,8 @@ def generate_zenn_frontmatter(title, tool_name, source, x_post="", note_intro=""
     """
     Generates Zenn compatible YAML frontmatter.
     """
-    emojis = ["🤖", "🚀", "🛠️", "💻", "💡", "🔥", "📈", "🔍"]
-    topics = ["AI", "OpenSource", "Tech", "Programming"]
-    if source == "github": topics.append("GitHub")
-    if "python" in tool_name.lower(): topics.append("Python")
+    emojis = ["💰", "📈", "💎", "🚀", "🏦", "💴", "💹"]
+    topics = ["Investment", "Crypto", "AssetManagement", "Money"]
     
     is_published = config.ZENN_AUTO_PUBLISH
     
@@ -255,7 +255,7 @@ def generate_zenn_frontmatter(title, tool_name, source, x_post="", note_intro=""
     frontmatter = f"""---
 title: "{title}"
 emoji: "{random.choice(emojis)}"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "idea" # tech: 技術記事 / idea: アイデア -> Investment is closer to idea/column
 topics: {json.dumps(topics)}
 published: {str(is_published).lower()}
 x_viral_post: "{x_post}"
