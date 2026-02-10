@@ -1,90 +1,54 @@
 {
-    "Python": [
+    "investment_general": [
         {
-            "title": "Python実践入門",
-            "keyword": "Python実践入門"
+            "keyword": "金持ち父さん貧乏父さん",
+            "title": "金持ち父さん 貧乏父さん: アメリカの金持ちが教えてくれるお金の哲学"
         },
         {
-            "title": "Effective Python",
-            "keyword": "Effective Python"
+            "keyword": "バビロン大富豪",
+            "title": "バビロンの大富豪 「繁栄と富と幸福」はいかにして築かれるのか"
         },
         {
-            "title": "退屈なことはPythonにやらせよう",
-            "keyword": "退屈なことはPythonにやらせよう"
+            "keyword": "敗者のゲーム",
+            "title": "敗者のゲーム(原著第8版)"
+        },
+        {
+            "keyword": "ウォール街のランダム・ウォーカー",
+            "title": "ウォール街のランダム・ウォーカー<原著第13版>"
         }
     ],
-    "Rust": [
+    "technical_analysis": [
         {
-            "title": "Rustプログラミング入門",
-            "keyword": "Rustプログラミング入門"
+            "keyword": "先物市場のテクニカル分析",
+            "title": "先物市場のテクニカル分析 (ニューファイナンシャルシリーズ)"
         },
         {
-            "title": "プログラミングRust",
-            "keyword": "プログラミングRust"
+            "keyword": "デイトレード",
+            "title": "デイトレード　マーケットで勝ち続けるための発想術"
+        },
+        {
+            "keyword": "ゾーン 相場心理学",
+            "title": "ゾーン — 相場心理学入門"
         }
     ],
-    "Go": [
+    "crypto": [
         {
-            "title": "Go言語 100Tips",
-            "keyword": "Go言語 100Tips"
+            "keyword": "ビットコイン・スタンダード",
+            "title": "ビットコイン・スタンダード: お金が変わると世界が変わる"
         },
         {
-            "title": "スターティングGo言語",
-            "keyword": "スターティングGo言語"
+            "keyword": "Mastering Bitcoin",
+            "title": "Mastering Bitcoin プログラミング・ビットコイン"
         }
     ],
-    "React": [
+    "nisa_ideco": [
         {
-            "title": "Reactハンズオンラーニング",
-            "keyword": "Reactハンズオンラーニング"
+            "keyword": "ほったらかし投資",
+            "title": "ほったらかし投資術(朝日新書)"
         },
         {
-            "title": "モダンJavaScriptの基本から始める React実践の教科書",
-            "keyword": "モダンJavaScriptの基本 from React"
-        }
-    ],
-    "Docker": [
-        {
-            "title": "仕組みと使い方がわかる Docker&Kubernetesのきほんのき",
-            "keyword": "Docker&Kubernetesのきほんのき"
-        },
-        {
-            "title": "Docker/Kubernetes 実践コンテナ開発入門",
-            "keyword": "Docker/Kubernetes 実践コンテナ開発入門"
-        }
-    ],
-    "AWS": [
-        {
-            "title": "AWS認定ソリューションアーキテクト",
-            "keyword": "AWS認定ソリューションアーキテクト"
-        },
-        {
-            "title": "Amazon Web Services 基礎からのネットワーク＆サーバー構築",
-            "keyword": "Amazon Web Services 基礎からのネットワーク"
-        }
-    ],
-    "Machine Learning": [
-        {
-            "title": "ゼロから作るDeep Learning",
-            "keyword": "ゼロから作るDeep Learning"
-        },
-        {
-            "title": "scikit-learnとTensorFlowによる実践機械学習",
-            "keyword": "scikit-learnとTensorFlowによる実践機械学習"
-        }
-    ],
-    "General": [
-        {
-            "title": "リーダブルコード",
-            "keyword": "リーダブルコード"
-        },
-        {
-            "title": "プリンシプル オブ プログラミング",
-            "keyword": "プリンシプル オブ プログラミング"
-        },
-        {
-            "title": "Webを支える技術",
-            "keyword": "Webを支える技術"
+            "keyword": "難しいことはわかりませんが",
+            "title": "難しいことはわかりませんが、お金の増やし方を教えてください!"
         }
     ]
 }
