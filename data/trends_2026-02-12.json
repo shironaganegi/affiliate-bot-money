@@ -3,11 +3,47 @@
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (JP)",
+      "name": "トランプ家のWLFI、為替・送金プラットフォーム「ワールド・スワップ」計画を公表",
+      "url": "https://jp.cointelegraph.com/news/trump-wlfi-foreign-exchange-remittance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"トランプ家のWLFI、為替・送金プラットフォーム「ワールド・スワップ」計画を公表\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9...",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:09.749366"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Cointelegraph (JP)",
+      "name": "ビットコイン、強気維持には週終値6万8300ドルが必須　「弱気加速」回避へアナリスト警鐘",
+      "url": "https://jp.cointelegraph.com/news/bitcoin-may-close-week-at-68-3k-to-avoid-bearish-acceleration-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ビットコイン、強気維持には週終値6万8300ドルが必須　「弱気加速」回避へアナリスト警鐘\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM...",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:09.749377"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Cointelegraph (JP)",
+      "name": "ビットコインマイナーの流出量、1月に急増も上場企業の売却は限定的",
+      "url": "https://jp.cointelegraph.com/news/miner-outflows-spike-public-miners-steady-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ビットコインマイナーの流出量、1月に急増も上場企業の売却は限定的\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2l...",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:09.749382"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Cointelegraph (JP)",
+      "name": "米銀行業界、GENIUS規則明確化まで仮想通貨信託認可の減速をOCCに要求",
+      "url": "https://jp.cointelegraph.com/news/bankers-push-occ-slow-crypto-trust-bank-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"米銀行業界、GENIUS規則明確化まで仮想通貨信託認可の減速をOCCに要求\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy...",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:09.749386"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Cointelegraph (JP)",
       "name": "バイナンスのユーザー保護基金SAFU、10億ドル分をビットコインへ転換完了　中核準備資産に",
       "url": "https://jp.cointelegraph.com/news/binance-completes-1b-bitcoin-safu-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"バイナンスのユーザー保護基金SAFU、10億ドル分をビットコインへ転換完了　中核準備資産に\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cH...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887598"
+      "fetched_at": "2026-02-12T23:02:09.749390"
     },
     {
       "source": "news_feed",
@@ -16,7 +52,7 @@
       "url": "https://jp.cointelegraph.com/news/coinbase-launches-crypto-wallets-built-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"コインベース、AIエージェント向け仮想通貨ウォレットを公開\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludG...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887610"
+      "fetched_at": "2026-02-12T23:02:09.749394"
     },
     {
       "source": "news_feed",
@@ -25,7 +61,7 @@
       "url": "https://jp.cointelegraph.com/news/ether-prices-v-shaped-recovery-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"イーサリアムは急回復へ向かうか　トム・リー氏「過去8回すべてV字反発」\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5j...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887615"
+      "fetched_at": "2026-02-12T23:02:09.749404"
     },
     {
       "source": "news_feed",
@@ -34,7 +70,7 @@
       "url": "https://jp.cointelegraph.com/news/strategy-ceo-preferred-stock-fund-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ストラテジー、ビットコイン取得で優先株重視へ転換　CEOが方針転換を表明\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887619"
+      "fetched_at": "2026-02-12T23:02:09.749408"
     },
     {
       "source": "news_feed",
@@ -43,7 +79,7 @@
       "url": "https://jp.cointelegraph.com/news/crypto-lender-blockfills-suspended-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"仮想通貨レンディングプラットフォームのブロックフィルズが入出金停止　先週のビットコイン急落を受け\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887623"
+      "fetched_at": "2026-02-12T23:02:09.749412"
     },
     {
       "source": "news_feed",
@@ -52,7 +88,7 @@
       "url": "https://jp.cointelegraph.com/news/elon-musk-x-money-external-beta-live-next-1-2-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"イーロン・マスク氏の決済システムXマネー、2か月以内に限定ベータ開始へ　「すべてのお金が集まる場所に」\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887627"
+      "fetched_at": "2026-02-12T23:02:09.749416"
     },
     {
       "source": "news_feed",
@@ -61,7 +97,7 @@
       "url": "https://jp.cointelegraph.com/news/bitcoin-rebound-hype-fades-as-range-highs-crumble-here-s-why-btc-is-volatile?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ビットコイン 依然として弱気派が主導権維持　コインベースプレミアムや先物データが示唆\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887637"
+      "fetched_at": "2026-02-12T23:02:09.749420"
     },
     {
       "source": "news_feed",
@@ -70,7 +106,7 @@
       "url": "https://jp.cointelegraph.com/news/when-will-bitcoin-start-a-new-bull-cycle-toward-150k-look-for-these-signs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ビットコイン 年末15万ドル回復の可能性　バーンスタインが強気見通し\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887641"
+      "fetched_at": "2026-02-12T23:02:09.749424"
     },
     {
       "source": "news_feed",
@@ -79,7 +115,7 @@
       "url": "https://jp.cointelegraph.com/news/bitcoin-reacts-to-major-us-jobs-data-beat-as-fed-rate-pause-odds-near-95?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"米雇用統計が予想を大幅に上回りビットコイン反応、FRB利上げ停止確率は95％近くに\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887645"
+      "fetched_at": "2026-02-12T23:02:09.749428"
     },
     {
       "source": "news_feed",
@@ -88,7 +124,7 @@
       "url": "https://jp.cointelegraph.com/news/blackrock-buidl-uniswap-institutional-defi-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ブラックロック、DeFi参入　機関投資家向けトークン取引でユニスワップ活用\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887649"
+      "fetched_at": "2026-02-12T23:02:09.749431"
     },
     {
       "source": "news_feed",
@@ -97,7 +133,7 @@
       "url": "https://jp.cointelegraph.com/news/price-predictions-2-11-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"保ち合い状態続く　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887653"
+      "fetched_at": "2026-02-12T23:02:09.749437"
     },
     {
       "source": "news_feed",
@@ -106,7 +142,7 @@
       "url": "https://jp.cointelegraph.com/news/democrats-slam-sec-chair-atkins-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"民主党議員、仮想通貨取締りを巡りSEC委員長アトキンス氏を批判\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2lu...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887657"
+      "fetched_at": "2026-02-12T23:02:09.749441"
     },
     {
       "source": "news_feed",
@@ -115,7 +151,7 @@
       "url": "https://jp.cointelegraph.com/news/sam-bankman-fried-rule-33-new-trial-doj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"サム・バンクマン＝フリード氏、FTX裁判でバイデン政権下の司法省が証人を黙らせたと主張\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887661"
+      "fetched_at": "2026-02-12T23:02:09.749445"
     },
     {
       "source": "news_feed",
@@ -124,7 +160,7 @@
       "url": "https://jp.cointelegraph.com/news/bitcoin-price-drops-3-percent-analyst-warns-bulls-lack-momentum-69k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ビットコイン価格は3％下落、強気派は6万9000ドルを突破できず\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2l...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887665"
+      "fetched_at": "2026-02-12T23:02:09.749449"
     },
     {
       "source": "news_feed",
@@ -133,7 +169,7 @@
       "url": "https://jp.cointelegraph.com/news/age-of-crypto-speculation-is-over-galaxy-novogratz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"仮想通貨の「投機の時代」は終焉か　ギャラクシーCEOが業界の成熟化を指摘\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887670"
+      "fetched_at": "2026-02-12T23:02:09.749453"
     },
     {
       "source": "news_feed",
@@ -142,7 +178,7 @@
       "url": "https://jp.cointelegraph.com/news/tokenized-commodities-like-gold-reach-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"トークン化コモディティ市場、6週間で53％拡大　金の歴史的上昇が追い風\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5j...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887675"
+      "fetched_at": "2026-02-12T23:02:09.749457"
     },
     {
       "source": "news_feed",
@@ -151,7 +187,7 @@
       "url": "https://jp.cointelegraph.com/news/robinhood-shares-dip-q4-earnings-miss-crypto-revenues-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ロビンフッド決算、市場予想下回る　仮想通貨収益は38％減に\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludG...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887681"
+      "fetched_at": "2026-02-12T23:02:09.749467"
     },
     {
       "source": "news_feed",
@@ -160,7 +196,7 @@
       "url": "https://jp.cointelegraph.com/news/crypto-miner-canaan-shares-fall-on-q4-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"仮想通貨マイニング企業カナン、25年第4四半期の売上高が121％増　株価は低調\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9z...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887685"
+      "fetched_at": "2026-02-12T23:02:09.749471"
     },
     {
       "source": "news_feed",
@@ -169,7 +205,7 @@
       "url": "https://jp.cointelegraph.com/news/bitcoin-trading-growth-asset-not-digital-gold-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ビットコインの「デジタル・ゴールド」神話に試練　高リスクのグロース資産に変質＝グレースケール\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887689"
+      "fetched_at": "2026-02-12T23:02:09.749475"
     },
     {
       "source": "news_feed",
@@ -178,7 +214,7 @@
       "url": "https://jp.cointelegraph.com/news/south-korea-probes-bithumb-paper-bitcoin-error?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"韓国ビッサム、保有していないビットコイン62万BTCを誤配布　金融当局が調査開始\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887693"
+      "fetched_at": "2026-02-12T23:02:09.749481"
     },
     {
       "source": "news_feed",
@@ -187,7 +223,7 @@
       "url": "https://jp.cointelegraph.com/news/crypto-ads-super-bowl-ai-bubble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"スーパーボウル広告はバブル崩壊を予言しているか？ ドットコム、仮想通貨、そしてAI\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887699"
+      "fetched_at": "2026-02-12T23:02:09.749485"
     },
     {
       "source": "news_feed",
@@ -196,7 +232,7 @@
       "url": "https://jp.cointelegraph.com/news/bitcoin-crash-60k-halfway-point-crypto-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ビットコイン 6万ドルへの暴落は弱気市場の折り返し地点か？\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludG...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887703"
+      "fetched_at": "2026-02-12T23:02:09.749489"
     },
     {
       "source": "news_feed",
@@ -205,7 +241,7 @@
       "url": "https://jp.cointelegraph.com/news/jump-trading-kalshi-polymarket-prediction-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"機関投資家の関心高まる中、ジャンプ・トレーディングがカルシとポリマーケットへの出資を検討＝報道\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887707"
+      "fetched_at": "2026-02-12T23:02:09.749492"
     },
     {
       "source": "news_feed",
@@ -214,7 +250,7 @@
       "url": "https://jp.cointelegraph.com/news/price-predictions-2-9-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"底値は形成されたか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cH...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887712"
+      "fetched_at": "2026-02-12T23:02:09.749496"
     },
     {
       "source": "news_feed",
@@ -223,7 +259,7 @@
       "url": "https://jp.cointelegraph.com/news/ripple-expands-institutional-custody-stack-with-staking-and-security-integrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"リップル、ステーキングとセキュリティ統合で機関向けカストディ基盤を拡張\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5j...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887716"
+      "fetched_at": "2026-02-12T23:02:09.749500"
     },
     {
       "source": "news_feed",
@@ -232,268 +268,151 @@
       "url": "https://jp.cointelegraph.com/news/polymarket-sues-massachusetts-claims-states-can-t-regulate-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ポリマーケット、マサチューセッツ州を提訴　予測市場は州が規制できないと主張\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887720"
-    },
-    {
-      "source": "news_feed",
-      "source_name": "Cointelegraph (JP)",
-      "name": "仮想通貨投資の資金流出、3週連続の大幅売り後に鈍化",
-      "url": "https://jp.cointelegraph.com/news/crypto-etp-selling-slowdown-187-million-outflows-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"仮想通貨投資の資金流出、3週連続の大幅売り後に鈍化\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZW...",
-      "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887724"
-    },
-    {
-      "source": "news_feed",
-      "source_name": "Cointelegraph (JP)",
-      "name": "「仮想通貨」のグーグル検索数、市場急落の中で年初来低水準付近にとどまる",
-      "url": "https://jp.cointelegraph.com/news/google-search-crypto-hover-yearly-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"「仮想通貨」のグーグル検索数、市場急落の中で年初来低水準付近にとどまる\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5j...",
-      "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887728"
-    },
-    {
-      "source": "news_feed",
-      "source_name": "Cointelegraph (JP)",
-      "name": "ビットコインの弱気相場はまだ終わらないの？　トレーダー、BTC価格の「本当の底」は5万ドルと指摘",
-      "url": "https://jp.cointelegraph.com/news/bitcoin-bear-market-not-over-trader-btc-price-real-bottom-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ビットコインの弱気相場はまだ終わらないの？　トレーダー、BTC価格の「本当の底」は5万ドルと指摘\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR...",
-      "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887731"
-    },
-    {
-      "source": "news_feed",
-      "source_name": "Cointelegraph (JP)",
-      "name": "ジャック・ドーシー氏のブロック、事業再編で最大1割の人員削減か＝報道",
-      "url": "https://jp.cointelegraph.com/news/jack-dorsey-block-may-cut-10-percent-staff-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ジャック・ドーシー氏のブロック、事業再編で最大1割の人員削減か＝報道\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb...",
-      "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:11.887735"
+      "fetched_at": "2026-02-12T23:02:09.749504"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "OKX Ventures backs RWA stablecoin with Securitize, Hamilton Lane",
-      "url": "https://cointelegraph.com/news/securitize-to-launch-rwa-backed-stablecoin-with-okx-stbl-hamilton-lane?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKX Ventures backs RWA stablecoin with Securitize, Hamilton Lane\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co...",
+      "name": "Coinbase misses Q4 earnings with $667M loss as crypto markets fell",
+      "url": "https://cointelegraph.com/news/coinbase-667m-loss-q4-earnings-miss-crypto-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase misses Q4 earnings with $667M loss as crypto markets fell\" class=\"type:primaryImage\" src=\"https://images.cointelegraph....",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186505"
+      "fetched_at": "2026-02-12T23:02:10.126018"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "UK government appoints HSBC for tokenized bond pilot",
-      "url": "https://cointelegraph.com/news/uk-appoint-hsbc-digital-gilt-pilot-digit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK government appoints HSBC for tokenized bond pilot\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528...",
+      "name": "Bitcoin in ‘capitulation zone’ as traders debate when BTC price will bottom",
+      "url": "https://cointelegraph.com/news/bitcoin-in-capitulation-zone-as-traders-debate-when-btc-price-will-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin in ‘capitulation zone’ as traders debate when BTC price will bottom\" class=\"type:primaryImage\" src=\"https://images.coint...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186516"
+      "fetched_at": "2026-02-12T23:02:10.126029"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "Gen Z flirts with crypto to pay for dates this Valentine’s, survey finds",
-      "url": "https://cointelegraph.com/news/gen-z-crypto-valentines-date-payments-okx-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gen Z flirts with crypto to pay for dates this Valentine’s, survey finds\" class=\"type:primaryImage\" src=\"https://images.cointele...",
+      "name": "Fed paper proposes initial margin weights for crypto-linked derivatives",
+      "url": "https://cointelegraph.com/news/fed-initial-margin-crypto-derivative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fed paper proposes initial margin weights for crypto-linked derivatives\" class=\"type:primaryImage\" src=\"https://images.cointeleg...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186522"
+      "fetched_at": "2026-02-12T23:02:10.126034"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "Bankers push OCC to slow crypto trust charters until GENIUS rules clarified",
-      "url": "https://cointelegraph.com/news/bankers-push-occ-slow-crypto-trust-bank-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bankers push OCC to slow crypto trust charters until GENIUS rules clarified\" class=\"type:primaryImage\" src=\"https://images.coint...",
+      "name": "Aptos-incubated Decibel to launch protocol-native stablecoin ahead of mainnet",
+      "url": "https://cointelegraph.com/news/aptos-incubated-decibel-to-launch-protocol-native-stablecoin-via-stripe-owned-bridge-ahead-of-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aptos-incubated Decibel to launch protocol-native stablecoin ahead of mainnet\" class=\"type:primaryImage\" src=\"https://images.coi...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186527"
+      "fetched_at": "2026-02-12T23:02:10.126038"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "Binance completes $1B Bitcoin conversion for SAFU emergency fund",
-      "url": "https://cointelegraph.com/news/binance-completes-1b-bitcoin-safu-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance completes $1B Bitcoin conversion for SAFU emergency fund\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co...",
+      "name": "Multi-day negative Bitcoin funding signals ‘overcrowded’ short trade: Reversal coming?",
+      "url": "https://cointelegraph.com/news/multi-day-negative-bitcoin-funding-signals-overcrowded-short-trade-time-for-a-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Multi-day negative Bitcoin funding signals ‘overcrowded’ short trade: Reversal coming?\" class=\"type:primaryImage\" src=\"https://i...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186531"
+      "fetched_at": "2026-02-12T23:02:10.126042"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "ARK Invest adds $34M Robinhood stake as Bitcoin falls below $66K",
-      "url": "https://cointelegraph.com/news/ark-buy-robinhood-34-million-bitcoin-slip-below-66k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ARK Invest adds $34M Robinhood stake as Bitcoin falls below $66K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co...",
+      "name": "TradFi giant Fiserv builds real-time dollar rails for crypto companies",
+      "url": "https://cointelegraph.com/news/fiserv-settlement-digital-asset-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TradFi giant Fiserv builds real-time dollar rails for crypto companies\" class=\"type:primaryImage\" src=\"https://images.cointelegr...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186535"
+      "fetched_at": "2026-02-12T23:02:10.126046"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "Strategy CEO eyes more preferred stock to fund Bitcoin buys",
-      "url": "https://cointelegraph.com/news/strategy-ceo-preferred-stock-fund-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy CEO eyes more preferred stock to fund Bitcoin buys\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/ima...",
+      "name": "21Shares taps BitGo for expanded regulated staking, custody support across US, Europe",
+      "url": "https://cointelegraph.com/news/bitgo-expands-custody-and-staking-partnership-with-21shares-across-us-and-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"21Shares taps BitGo for expanded regulated staking, custody support across US, Europe\" class=\"type:primaryImage\" src=\"https://im...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186539"
+      "fetched_at": "2026-02-12T23:02:10.126050"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "Ether set for another ‘V-shaped recovery,’ Tom Lee says",
-      "url": "https://cointelegraph.com/news/ether-prices-v-shaped-recovery-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether set for another ‘V-shaped recovery,’ Tom Lee says\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/...",
+      "name": "Ether’s hidden strength: Why institutional demand points to $2.4K",
+      "url": "https://cointelegraph.com/news/ether-hidden-strength-why-institutional-demand-points-to-2-4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether’s hidden strength: Why institutional demand points to $2.4K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.c...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186543"
+      "fetched_at": "2026-02-12T23:02:10.126054"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "Russia is blocking WhatsApp to push ‘surveillance’ app, company says",
-      "url": "https://cointelegraph.com/news/whatsapp-accuses-russia-of-trying-to-block-it-to-push-state-backed-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia is blocking WhatsApp to push ‘surveillance’ app, company says\" class=\"type:primaryImage\" src=\"https://images.cointelegrap...",
+      "name": "Cango raises $75.5M as Bitcoin miner makes AI infrastructure pivot",
+      "url": "https://cointelegraph.com/news/cango-raises-75-5m-in-equity-as-bitcoin-miner-pivots-toward-ai-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cango raises $75.5M as Bitcoin miner makes AI infrastructure pivot\" class=\"type:primaryImage\" src=\"https://images.cointelegraph....",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186548"
+      "fetched_at": "2026-02-12T23:02:10.126058"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "Thailand approves crypto as underlying assets in derivatives markets",
-      "url": "https://cointelegraph.com/news/thailand-approves-crypto-underlying-assets-derivatives-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand approves crypto as underlying assets in derivatives markets\" class=\"type:primaryImage\" src=\"https://images.cointelegrap...",
+      "name": "ETH ETF holders in ‘worse position’ than BTC ETF peers as crypto market looks for bottom",
+      "url": "https://cointelegraph.com/news/eth-etf-holders-in-worse-position-than-btc-etf-peers-as-crypto-market-looks-for-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ETH ETF holders in ‘worse position’ than BTC ETF peers as crypto market looks for bottom\" class=\"type:primaryImage\" src=\"https:/...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186552"
+      "fetched_at": "2026-02-12T23:02:10.126063"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "Ethereum developers suggest using ZK tech to anonymize AI use",
-      "url": "https://cointelegraph.com/news/ethereum-devs-propose-zero-knowledge-ai-api-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum developers suggest using ZK tech to anonymize AI use\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/i...",
+      "name": "Bitcoin analysts predict ‘prolonged’ consolidation phase for BTC price",
+      "url": "https://cointelegraph.com/news/bitcoin-analysts-predict-prolonged-consolidation-phase-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin analysts predict ‘prolonged’ consolidation phase for BTC price\" class=\"type:primaryImage\" src=\"https://images.cointelegr...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186556"
+      "fetched_at": "2026-02-12T23:02:10.126067"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "Crypto lender halted withdrawals during Bitcoin’s fall last week",
-      "url": "https://cointelegraph.com/news/crypto-lender-blockfills-suspended-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto lender halted withdrawals during Bitcoin’s fall last week\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co...",
+      "name": "Trump family's WLFI plans FX and remittance platform: Report",
+      "url": "https://cointelegraph.com/news/trump-wlfi-foreign-exchange-remittance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump family's WLFI plans FX and remittance platform: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186564"
+      "fetched_at": "2026-02-12T23:02:10.126075"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "US fines Paxful $4M for moving funds tied to trafficking, fraud",
-      "url": "https://cointelegraph.com/news/us-fines-paxful-4m-moving-funds-trafficking-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US fines Paxful $4M for moving funds tied to trafficking, fraud\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com...",
+      "name": "The real ‘supercycle’ isn’t crypto, it’s AI infrastructure: Analyst",
+      "url": "https://cointelegraph.com/news/ai-infrastructure-supercycle-bitcoin-miners-pivot-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The real ‘supercycle’ isn’t crypto, it’s AI infrastructure: Analyst\" class=\"type:primaryImage\" src=\"https://images.cointelegraph...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186568"
+      "fetched_at": "2026-02-12T23:02:10.126079"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "X Money ‘external beta’ will go live in 1-2 months, Musk says",
-      "url": "https://cointelegraph.com/news/elon-musk-x-money-external-beta-live-next-1-2-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"X Money ‘external beta’ will go live in 1-2 months, Musk says\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/i...",
+      "name": "Bitcoin must close week at $68.3K to avoid 'bearish acceleration': Analyst",
+      "url": "https://cointelegraph.com/news/bitcoin-may-close-week-at-68-3k-to-avoid-bearish-acceleration-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin must close week at $68.3K to avoid 'bearish acceleration': Analyst\" class=\"type:primaryImage\" src=\"https://images.cointe...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186572"
+      "fetched_at": "2026-02-12T23:02:10.126083"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "Coinbase unveils crypto wallets designed specifically for AI agents",
-      "url": "https://cointelegraph.com/news/coinbase-launches-crypto-wallets-built-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase unveils crypto wallets designed specifically for AI agents\" class=\"type:primaryImage\" src=\"https://images.cointelegraph...",
+      "name": "How a Bitcoin promotion error triggered a regulatory reckoning in South Korea",
+      "url": "https://cointelegraph.com/news/how-a-bitcoin-promotion-error-triggered-a-regulatory-reckoning-in-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"How a Bitcoin promotion error triggered a regulatory reckoning in South Korea\" class=\"type:primaryImage\" src=\"https://images.coi...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186576"
+      "fetched_at": "2026-02-12T23:02:10.126087"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "Chainlink feeds go live for Ondo tokenized US stocks on Ethereum",
-      "url": "https://cointelegraph.com/news/ondo-integrates-chainlink-data-feeds-for-tokenized-stocks-on-ethereum-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chainlink feeds go live for Ondo tokenized US stocks on Ethereum\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co...",
+      "name": "Binance teases Bitcoin bullish 'shift' as crypto sentiment hits record low",
+      "url": "https://cointelegraph.com/news/crypto-sentiment-sees-record-low-as-binance-teases-bitcoin-stabilization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance teases Bitcoin bullish 'shift' as crypto sentiment hits record low\" class=\"type:primaryImage\" src=\"https://images.cointe...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186580"
-    },
-    {
-      "source": "news_feed",
-      "source_name": "Cointelegraph (World)",
-      "name": "Democratic lawmakers slam SEC Chair Atkins over crypto enforcement",
-      "url": "https://cointelegraph.com/news/democrats-slam-sec-chair-atkins-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Democratic lawmakers slam SEC Chair Atkins over crypto enforcement\" class=\"type:primaryImage\" src=\"https://images.cointelegraph....",
-      "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186583"
-    },
-    {
-      "source": "news_feed",
-      "source_name": "Cointelegraph (World)",
-      "name": "Bitcoin futures data shows bears gearing up for an assault on $60K",
-      "url": "https://cointelegraph.com/news/bitcoin-futures-data-shows-bears-gearing-up-for-an-assault-on-dollar60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin futures data shows bears gearing up for an assault on $60K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph....",
-      "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186587"
-    },
-    {
-      "source": "news_feed",
-      "source_name": "Cointelegraph (World)",
-      "name": "Price predictions 2/11: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
-      "url": "https://cointelegraph.com/news/price-predictions-2-11-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 2/11: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR\" class=\"type:primaryImage\" src=\"https://images.cointe...",
-      "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186591"
-    },
-    {
-      "source": "news_feed",
-      "source_name": "Cointelegraph (World)",
-      "name": "Bitcoin rebound hype fades as range highs crumble: Here’s why BTC is volatile",
-      "url": "https://cointelegraph.com/news/bitcoin-rebound-hype-fades-as-range-highs-crumble-here-s-why-btc-is-volatile?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin rebound hype fades as range highs crumble: Here’s why BTC is volatile\" class=\"type:primaryImage\" src=\"https://images.coi...",
-      "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186595"
-    },
-    {
-      "source": "news_feed",
-      "source_name": "Cointelegraph (World)",
-      "name": "Deel taps MoonPay to roll out stablecoin salary payouts in UK, EU",
-      "url": "https://cointelegraph.com/news/deel-partners-with-moonpay-to-roll-out-stablecoin-salary-payouts-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Deel taps MoonPay to roll out stablecoin salary payouts in UK, EU\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.c...",
-      "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186599"
-    },
-    {
-      "source": "news_feed",
-      "source_name": "Cointelegraph (World)",
-      "name": "BlackRock enters DeFi, taps Uniswap for institutional token trading",
-      "url": "https://cointelegraph.com/news/blackrock-buidl-uniswap-institutional-defi-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock enters DeFi, taps Uniswap for institutional token trading\" class=\"type:primaryImage\" src=\"https://images.cointelegraph...",
-      "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186602"
-    },
-    {
-      "source": "news_feed",
-      "source_name": "Cointelegraph (World)",
-      "name": "Malaysia's central bank announces stablecoin, tokenization sandbox",
-      "url": "https://cointelegraph.com/news/malaysia-central-bank-stablecoin-tokenize-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Malaysia's central bank announces stablecoin, tokenization sandbox\" class=\"type:primaryImage\" src=\"https://images.cointelegraph....",
-      "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186606"
-    },
-    {
-      "source": "news_feed",
-      "source_name": "Cointelegraph (World)",
-      "name": "When will Bitcoin start a new bull cycle toward $150K? Look for these signs",
-      "url": "https://cointelegraph.com/news/when-will-bitcoin-start-a-new-bull-cycle-toward-150k-look-for-these-signs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"When will Bitcoin start a new bull cycle toward $150K? Look for these signs\" class=\"type:primaryImage\" src=\"https://images.coint...",
-      "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186610"
-    },
-    {
-      "source": "news_feed",
-      "source_name": "Cointelegraph (World)",
-      "name": "Bitcoin reacts to major US jobs data beat as Fed rate pause odds near 95%",
-      "url": "https://cointelegraph.com/news/bitcoin-reacts-to-major-us-jobs-data-beat-as-fed-rate-pause-odds-near-95?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin reacts to major US jobs data beat as Fed rate pause odds near 95%\" class=\"type:primaryImage\" src=\"https://images.cointel...",
-      "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186621"
+      "fetched_at": "2026-02-12T23:02:10.126091"
     },
     {
       "source": "news_feed",
@@ -502,421 +421,565 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186627"
+      "fetched_at": "2026-02-12T23:02:10.126097"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "EU seeks to close Russia crypto loopholes in new sanctions",
-      "url": "https://cointelegraph.com/news/russia-crypto-loophole-eu-20th-sanctions-package?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU seeks to close Russia crypto loopholes in new sanctions\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag...",
+      "name": "Is this crypto winter different? Key observers reevaluate Bitcoin",
+      "url": "https://cointelegraph.com/news/crypto-winter-different-observers-reevaluate-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Is this crypto winter different? Key observers reevaluate Bitcoin\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.c...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186631"
+      "fetched_at": "2026-02-12T23:02:10.126102"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "Denmark’s Danske Bank allows clients to buy Bitcoin and Ether ETPs",
-      "url": "https://cointelegraph.com/news/denmark-largest-bank-danske-pivots-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Denmark’s Danske Bank allows clients to buy Bitcoin and Ether ETPs\" class=\"type:primaryImage\" src=\"https://images.cointelegraph....",
+      "name": "Bitcoin miner outflows spike in January, but public sales remain limited",
+      "url": "https://cointelegraph.com/news/miner-outflows-spike-public-miners-steady-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin miner outflows spike in January, but public sales remain limited\" class=\"type:primaryImage\" src=\"https://images.cointele...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186635"
+      "fetched_at": "2026-02-12T23:02:10.126106"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "Africa records highest stablecoin conversion spreads, data shows",
-      "url": "https://cointelegraph.com/news/africa-stablecoin-fx-spreads-january-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Africa records highest stablecoin conversion spreads, data shows\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co...",
+      "name": "US credit union regulator proposes stablecoin licensing path",
+      "url": "https://cointelegraph.com/news/ncua-proposal-outlines-licensing-rules-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US credit union regulator proposes stablecoin licensing path\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186639"
+      "fetched_at": "2026-02-12T23:02:10.126109"
     },
     {
       "source": "news_feed",
       "source_name": "Cointelegraph (World)",
-      "name": "Sam Bankman-Fried claims Biden DOJ silenced witnesses during FTX trial",
-      "url": "https://cointelegraph.com/news/sam-bankman-fried-rule-33-new-trial-doj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sam Bankman-Fried claims Biden DOJ silenced witnesses during FTX trial\" class=\"type:primaryImage\" src=\"https://images.cointelegr...",
+      "name": "OKX Ventures backs RWA stablecoin with Securitize, Hamilton Lane",
+      "url": "https://cointelegraph.com/news/securitize-to-launch-rwa-backed-stablecoin-with-okx-stbl-hamilton-lane?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKX Ventures backs RWA stablecoin with Securitize, Hamilton Lane\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co...",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:12.186643"
+      "fetched_at": "2026-02-12T23:02:10.126113"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Cointelegraph (World)",
+      "name": "UK government appoints HSBC for tokenized bond pilot",
+      "url": "https://cointelegraph.com/news/uk-appoint-hsbc-digital-gilt-pilot-digit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK government appoints HSBC for tokenized bond pilot\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528...",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:10.126118"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Cointelegraph (World)",
+      "name": "Gen Z flirts with crypto to pay for dates this Valentine’s, survey finds",
+      "url": "https://cointelegraph.com/news/gen-z-crypto-valentines-date-payments-okx-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gen Z flirts with crypto to pay for dates this Valentine’s, survey finds\" class=\"type:primaryImage\" src=\"https://images.cointele...",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:10.126121"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Cointelegraph (World)",
+      "name": "Bankers push OCC to slow crypto trust charters until GENIUS rules clarified",
+      "url": "https://cointelegraph.com/news/bankers-push-occ-slow-crypto-trust-bank-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bankers push OCC to slow crypto trust charters until GENIUS rules clarified\" class=\"type:primaryImage\" src=\"https://images.coint...",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:10.126125"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Cointelegraph (World)",
+      "name": "Binance completes $1B Bitcoin conversion for SAFU emergency fund",
+      "url": "https://cointelegraph.com/news/binance-completes-1b-bitcoin-safu-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance completes $1B Bitcoin conversion for SAFU emergency fund\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co...",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:10.126131"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Cointelegraph (World)",
+      "name": "ARK Invest adds $34M Robinhood stake as Bitcoin falls below $66K",
+      "url": "https://cointelegraph.com/news/ark-buy-robinhood-34-million-bitcoin-slip-below-66k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ARK Invest adds $34M Robinhood stake as Bitcoin falls below $66K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co...",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:10.126136"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Cointelegraph (World)",
+      "name": "Strategy CEO eyes more preferred stock to fund Bitcoin buys",
+      "url": "https://cointelegraph.com/news/strategy-ceo-preferred-stock-fund-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy CEO eyes more preferred stock to fund Bitcoin buys\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/ima...",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:10.126140"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Cointelegraph (World)",
+      "name": "Ether set for another ‘V-shaped recovery,’ Tom Lee says",
+      "url": "https://cointelegraph.com/news/ether-prices-v-shaped-recovery-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether set for another ‘V-shaped recovery,’ Tom Lee says\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/...",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:10.126145"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Cointelegraph (World)",
+      "name": "Russia is blocking WhatsApp to push ‘surveillance’ app, company says",
+      "url": "https://cointelegraph.com/news/whatsapp-accuses-russia-of-trying-to-block-it-to-push-state-backed-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia is blocking WhatsApp to push ‘surveillance’ app, company says\" class=\"type:primaryImage\" src=\"https://images.cointelegrap...",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:10.126150"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Cointelegraph (World)",
+      "name": "Thailand approves crypto as underlying assets in derivatives markets",
+      "url": "https://cointelegraph.com/news/thailand-approves-crypto-underlying-assets-derivatives-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand approves crypto as underlying assets in derivatives markets\" class=\"type:primaryImage\" src=\"https://images.cointelegrap...",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:10.126154"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Kaiser reaches $30 million settlement with US Labor Dept over mental health care practices",
-      "url": "https://finance.yahoo.com/news/kaiser-reaches-30-million-settlement-210745266.html",
+      "name": "Are Wall Street Analysts Bullish on Eaton Stock?",
+      "url": "https://finance.yahoo.com/news/wall-street-analysts-bullish-eaton-151556487.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305522"
+      "fetched_at": "2026-02-12T23:02:11.539652"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Electricity Demand Is Surging—The Grid Isn’t Ready",
-      "url": "https://finance.yahoo.com/news/electricity-demand-surging-grid-isn-000000634.html",
+      "name": "Taylor Morrison (TMHC) Q4 2025 Earnings Transcript",
+      "url": "https://finance.yahoo.com/news/taylor-morrison-tmhc-q4-2025-151231667.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305536"
+      "fetched_at": "2026-02-12T23:02:11.539665"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Warren Buffett On Those Who 'Prattle' About Problems in the U.S. and Spread 'Pessimism' – 'I've Never Seen One Who Wishes to Emigrate'",
-      "url": "https://finance.yahoo.com/news/warren-buffett-those-prattle-problems-000116245.html",
+      "name": "Silvercrest (SAMG) Balances Record Asset Growth with Ongoing Investment Spending",
+      "url": "https://finance.yahoo.com/news/silvercrest-samg-balances-record-asset-151515665.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305542"
+      "fetched_at": "2026-02-12T23:02:11.539671"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "This Is the Top-Rated Dividend Stock to Buy in February 2026",
-      "url": "https://finance.yahoo.com/news/top-rated-dividend-stock-buy-003002728.html",
+      "name": "BMO Capital Cuts Murphy Oil (MUR) Price Target to $35, Cites Softer 2026 Production Outlook",
+      "url": "https://finance.yahoo.com/news/bmo-capital-cuts-murphy-oil-150924070.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305547"
+      "fetched_at": "2026-02-12T23:02:11.539677"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Best airline credit cards for February 2026",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-airline-credit-cards-193236919.html",
+      "name": "Corn Prices Are Trending Higher: How to Trade Futures Here",
+      "url": "https://finance.yahoo.com/news/corn-prices-trending-higher-trade-150737721.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305552"
+      "fetched_at": "2026-02-12T23:02:11.539682"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Best travel credit cards for February 2026: Earn free flights, hotel stays, and more",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-travel-rewards-credit-card-172745542.html",
+      "name": "Analyst Report: Shopify Inc",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_4837_AnalystReport_1770919903000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305557"
+      "fetched_at": "2026-02-12T23:02:11.539688"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Personal loan vs. line of credit: Which is better for you (and when)?",
-      "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/personal-loan-vs-line-of-credit-174323042.html",
+      "name": "NNN REIT Stable Triple-Net Income with Decades of Dividend Growth",
+      "url": "https://finance.yahoo.com/news/nnn-reit-stable-triple-net-150745934.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305563"
+      "fetched_at": "2026-02-12T23:02:11.539693"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Robinhood (HOOD) Q4 2025 Earnings Call Transcript",
-      "url": "https://finance.yahoo.com/news/robinhood-hood-q4-2025-earnings-000443626.html",
+      "name": "Terex (TEX) Q4 2025 Earnings Call Transcript",
+      "url": "https://finance.yahoo.com/news/terex-tex-q4-2025-earnings-151446435.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305568"
+      "fetched_at": "2026-02-12T23:02:11.539698"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "7 tax-planning strategies that will save you money",
-      "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-planning-strategies-203026152.html",
+      "name": "Bernstein Raises UPS Price Target to $128 After Strong Q4 Beat",
+      "url": "https://finance.yahoo.com/news/bernstein-raises-ups-price-target-150528835.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305573"
+      "fetched_at": "2026-02-12T23:02:11.539704"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "The best pet insurance companies of 2026",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/best-pet-insurance-171529421.html",
+      "name": "Barclays Trims Edison International (EIX) Target to $67, Reaffirms Overweight",
+      "url": "https://finance.yahoo.com/news/barclays-trims-edison-international-eix-150256402.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305579"
+      "fetched_at": "2026-02-12T23:02:11.539709"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Southwest Rapid Rewards Premier Card review: A top choice for Southwest loyalists",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/southwest-rapid-rewards-premier-credit-card-review-200833979.html",
+      "name": "Dear Cisco Stock Fans, Mark Your Calendars for February 11",
+      "url": "https://finance.yahoo.com/news/dear-cisco-stock-fans-mark-150257307.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305584"
+      "fetched_at": "2026-02-12T23:02:11.539714"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "How I used my Southwest credit card to fly (almost) free",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/southwest-companion-pass-welcome-offer-182809325.html",
+      "name": "Analyst Report: Mondelez International Inc.",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3597_AnalystReport_1770919903000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305589"
+      "fetched_at": "2026-02-12T23:02:11.539720"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Key Takeaways From USA Rare Earth's Big Deal",
-      "url": "https://finance.yahoo.com/news/key-takeaways-usa-rare-earths-000900721.html",
+      "name": "Buyers finally catch a break as the US housing market is expected to cool in 2026. Here’s where prices may fall",
+      "url": "https://finance.yahoo.com/news/buyers-finally-catch-break-us-150000742.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305594"
+      "fetched_at": "2026-02-12T23:02:11.539725"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "US stocks wobble after feeling both the upside and downside of a strong jobs report",
-      "url": "https://finance.yahoo.com/news/asian-shares-advance-weak-us-042412557.html",
+      "name": "Tocvan restarts drilling at Gran Pilar project in Sonora, Mexico",
+      "url": "https://finance.yahoo.com/news/tocvan-restarts-drilling-gran-pilar-151624221.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305599"
+      "fetched_at": "2026-02-12T23:02:11.539730"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "More couples are ditching joint bank accounts, and experts see a benefit",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/more-couples-are-ditching-joint-bank-accounts-and-experts-see-a-benefit-192326210.html",
+      "name": "DA Davidson Raises Midland States Bancorp (MSBI) Target to $24, Keeps Neutral After Q4",
+      "url": "https://finance.yahoo.com/news/da-davidson-raises-midland-states-150044803.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305604"
+      "fetched_at": "2026-02-12T23:02:11.539735"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Here's what the monthly payment on a $1 million home really looks like",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/monthly-payment-on-1-million-dollar-mortgage-190204065.html",
+      "name": "Evercore ISI Cuts T. Rowe (TROW) Price Target to $106, Flags Equity Outflows as Key Concern",
+      "url": "https://finance.yahoo.com/news/evercore-isi-cuts-t-rowe-150104652.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305609"
+      "fetched_at": "2026-02-12T23:02:11.539740"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Ask an Advisor: Why Does a 1% Advisory Fee Equal 25% of My Returns?",
-      "url": "https://finance.yahoo.com/news/ask-advisor-am-giving-away-195756248.html",
+      "name": "Stocks Slide as Robust Jobs Data Signals Fewer Fed Rate Cuts",
+      "url": "https://finance.yahoo.com/news/stocks-slide-robust-jobs-data-145949553.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305614"
+      "fetched_at": "2026-02-12T23:02:11.539746"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Why Spotify Stock Surged Today",
-      "url": "https://finance.yahoo.com/news/why-spotify-stock-surged-today-001516879.html",
+      "name": "Analyst Report: AbbVie Inc",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3610_AnalystReport_1770919903000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305620"
+      "fetched_at": "2026-02-12T23:02:11.539751"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "ETF Conversions from Mutual Funds Hit Record Highs",
-      "url": "https://finance.yahoo.com/news/etf-conversions-mutual-funds-hit-050100519.html",
+      "name": "Are Wall Street Analysts Predicting Aon Stock Will Climb or Sink?",
+      "url": "https://finance.yahoo.com/news/wall-street-analysts-predicting-aon-151832085.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305625"
+      "fetched_at": "2026-02-12T23:02:11.539756"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Tesla car insurance: How to shop and save",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/tesla-car-insurance-155849584.html",
+      "name": "SharkNinja (SN) Q4 2025 Earnings Call Transcript",
+      "url": "https://finance.yahoo.com/news/sharkninja-sn-q4-2025-earnings-151612648.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305630"
+      "fetched_at": "2026-02-12T23:02:11.539761"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Why umbrella insurance is worth considering",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/umbrella-insurance-223354355.html",
+      "name": "Morgan Stanley Raises Franklin Resources (BEN) Target to $22, Keeps Underweight Rating",
+      "url": "https://finance.yahoo.com/news/morgan-stanley-raises-franklin-resources-145618872.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305635"
+      "fetched_at": "2026-02-12T23:02:11.539767"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "How to get the best luxury car insurance",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/luxury-car-insurance-185353907.html",
+      "name": "Robinhood stock plunges as company's Q4 revenue misses Wall Street estimates",
+      "url": "https://finance.yahoo.com/news/robinhood-stock-plunges-as-companys-q4-revenue-misses-wall-street-estimates-151013037.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305640"
+      "fetched_at": "2026-02-12T23:02:11.539775"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Robinhood earnings beat analyst estimates",
-      "url": "https://finance.yahoo.com/news/robinhood-earnings-beat-analyst-estimates-002114398.html",
+      "name": "As Amazon ‘Scrambles to Catch Up,’ 1 Analyst Is Jumping Ship on AMZN Stock",
+      "url": "https://finance.yahoo.com/news/amazon-scrambles-catch-1-analyst-144744749.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305645"
+      "fetched_at": "2026-02-12T23:02:11.539781"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Buying an electric car? What to know about EV insurance costs.",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/ev-insurance-153443980.html",
+      "name": "Market Update: HP, PFE, MDLZ, ABBV, SHOP",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_46147_MarketUpdate_1770919003000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305650"
+      "fetched_at": "2026-02-12T23:02:11.539786"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Is it better to lease or finance a car? Here’s how to decide.",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/comparison/lease-vs-finance-car-203958250.html",
+      "name": "Dear Coinbase Stock Fans, Mark Your Calendars for February 12",
+      "url": "https://finance.yahoo.com/news/dear-coinbase-stock-fans-mark-152216197.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305656"
+      "fetched_at": "2026-02-12T23:02:11.539791"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Why extreme weather is increasing the cost of your auto insurance",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/extreme-weather-auto-insurance-181858052.html",
+      "name": "Humana Stock Falls on Disappointing Earnings Forecast",
+      "url": "https://www.wsj.com/livecoverage/jobs-report-unemployment-stock-market-02-11-2026/card/humana-stock-falls-on-disappointing-earnings-forecast-zhTSpgSR91u25ta25T2Q?siteid=yhoof2&yptr=yahoo",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305661"
+      "fetched_at": "2026-02-12T23:02:11.539796"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Driving for Uber or Lyft? Here’s the car insurance you need.",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/rideshare-insurance-155909957.html",
+      "name": "Thermo Fisher Scientific Stock Outlook: Is Wall Street Bullish or Bearish?",
+      "url": "https://finance.yahoo.com/news/thermo-fisher-scientific-stock-outlook-152331895.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305666"
+      "fetched_at": "2026-02-12T23:02:11.539802"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Estée Lauder Files Lawsuit Against Walmart Alleging Sales of Counterfeit Products",
-      "url": "https://www.wsj.com/business/retail/estee-lauder-files-lawsuit-against-walmart-alleging-sales-of-counterfeit-products-0c3d4bfe?siteid=yhoof2&yptr=yahoo",
+      "name": "Signia Capital Management’s Views on Ramaco Resources (METC)",
+      "url": "https://finance.yahoo.com/news/signia-capital-management-views-ramaco-144153979.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305671"
+      "fetched_at": "2026-02-12T23:02:11.539807"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Delivering food? Here's the car insurance you need.",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/how-car-insurance-works-for-delivery-drivers-212329760.html",
+      "name": "What Today’s U.S. Jobs Data Tells Us About Gold, Silver Prices",
+      "url": "https://finance.yahoo.com/news/today-u-jobs-data-tells-152354689.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305676"
+      "fetched_at": "2026-02-12T23:02:11.539812"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Will your car insurance cover hail damage?",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/hail-damage-car-insurance-173219670.html",
+      "name": "Daily Spotlight: Understanding AI Growth Opportunities",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_46141_MarketOutlook_1770898605000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305681"
+      "fetched_at": "2026-02-12T23:02:11.539817"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "What is high-risk car insurance, and who needs it?",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/high-risk-car-insurance-194101085.html",
+      "name": "Micron Stock Jumps. Competition Fears Are Easing.",
+      "url": "https://www.barrons.com/articles/micron-stock-price-hbm4-samsung-9804fd1c?siteid=yhoof2&yptr=yahoo",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305687"
+      "fetched_at": "2026-02-12T23:02:11.539823"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Here’s how to shop for auto insurance",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/new-car-insurance-155946669.html",
+      "name": "Kraft Heinz pauses plans to split into 2 companies, says its problems are 'fixable'",
+      "url": "https://finance.yahoo.com/news/kraft-heinz-pauses-plans-split-143614868.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305692"
+      "fetched_at": "2026-02-12T23:02:11.539828"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Costco has a gift card problem as key partner goes bankrupt",
-      "url": "https://finance.yahoo.com/news/costco-gift-card-problem-key-013700641.html",
+      "name": "Resilience in Its Core Business Powers Alphabet’s (GOOG) Performance",
+      "url": "https://finance.yahoo.com/news/resilience-core-business-powers-alphabet-143511623.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305697"
+      "fetched_at": "2026-02-12T23:02:11.539833"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "8 tips for getting the lowest mortgage rates",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/8-tips-for-getting-the-lowest-mortgage-rates-224601012.html",
+      "name": "Michael Saylor Isn’t Backing Down from Buying Bitcoin. Why MSTR Stock Investors Don’t Like That.",
+      "url": "https://finance.yahoo.com/news/michael-saylor-isn-t-backing-143123093.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305702"
+      "fetched_at": "2026-02-12T23:02:11.539839"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Tax Day 2026 is coming up. Here’s what to know to file by the deadline.",
-      "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-day-083027347.html",
+      "name": "Technical Assessment: Bullish in the Intermediate-Term",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_46140_TechnicalAnalysis_1770898563000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305708"
+      "fetched_at": "2026-02-12T23:02:11.539844"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "What credit score do you need to rent an apartment​?",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/what-credit-score-is-needed-to-rent-an-apartment-140011349.html",
+      "name": "What Are Wall Street Analysts' Target Price for DexCom Stock?",
+      "url": "https://finance.yahoo.com/news/wall-street-analysts-target-price-143113410.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305713"
+      "fetched_at": "2026-02-12T23:02:11.539849"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Best CD rates today, February 12, 2026 (lock in up to 4% APY)",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-february-12-2026-lock-in-up-to-4-apy-110100836.html",
+      "name": "Red-Hot Jobs Report Will Delay Fed Rate Cuts – Lock In These 5 Ultra-High-Yield Dividend Giants",
+      "url": "https://finance.yahoo.com/news/red-hot-jobs-report-delay-151703804.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305718"
+      "fetched_at": "2026-02-12T23:02:11.539855"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Stock Market Today, Feb. 10: Markets Slide Lower as December Retail Figures Underwhelm",
-      "url": "https://finance.yahoo.com/news/stock-market-today-feb-10-002341203.html",
+      "name": "As Tesla Loses in Europe, Here Is What Investors Need for TSLA Stock to Win in 2026",
+      "url": "https://finance.yahoo.com/news/tesla-loses-europe-investors-tsla-143002956.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305723"
+      "fetched_at": "2026-02-12T23:02:11.539860"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Best high-yield savings interest rates today, February 12, 2026 (top account pays 4% APY)",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-thursday-february-12-2026-110059997.html",
+      "name": "Meta Platforms’ (META) Capital Expense Guidance Raised Concerns Over Overspending on AI",
+      "url": "https://finance.yahoo.com/news/meta-platforms-meta-capital-expense-142846545.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305728"
+      "fetched_at": "2026-02-12T23:02:11.539865"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Mortgage and refinance interest rates today, February 12, 2026: Mostly unchanged",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-thursday-february-12-2026-110051548.html",
+      "name": "Do Wall Street Analysts Like American Water Works Stock?",
+      "url": "https://finance.yahoo.com/news/wall-street-analysts-american-water-152922735.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305733"
+      "fetched_at": "2026-02-12T23:02:11.539870"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "Best money market account rates today, February 12, 2026 (earn up to 4.1% APY)",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-thursday-february-12-2026-110032985.html",
+      "name": "Analyst Report: GlobalFoundries Inc",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_6634_AnalystReport_1770898202000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305738"
+      "fetched_at": "2026-02-12T23:02:11.539876"
     },
     {
       "source": "news_feed",
       "source_name": "Yahoo Finance (Global)",
-      "name": "HELOC and home equity loan rates today, February 11, 2026: Fractions above 52-week lows",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-february-11-2025-110009324.html",
+      "name": "Lock in a rate below 6%: Mortgage lenders with the best rates this week, Feb. 9-15, 2026",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/lock-in-a-rate-below-6-mortgage-lenders-with-the-best-rates-this-week-feb-9-15-2026-170834659.html",
       "description": "",
       "daily_stars": 0,
-      "fetched_at": "2026-02-12T11:59:13.305744"
+      "fetched_at": "2026-02-12T23:02:11.539881"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Yahoo Finance (Global)",
+      "name": "Roblox Sees Huge Revenue and Bookings Growth, But This Metric Remains a Red Flag",
+      "url": "https://finance.yahoo.com/news/roblox-sees-huge-revenue-bookings-150500760.html",
+      "description": "",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:11.539886"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Yahoo Finance (Global)",
+      "name": "Home equity loan requirements for 2026",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/home-equity-loan-requirements-195059662.html",
+      "description": "",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:11.539892"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Yahoo Finance (Global)",
+      "name": "How to make money at home: 6 lucrative work-from-home side hustles",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/how-to-make-money-from-home-side-hustles-140033114.html",
+      "description": "",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:11.539901"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Yahoo Finance (Global)",
+      "name": "How to use multiple accounts to achieve your savings goals",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/multiple-savings-accounts-191427769.html",
+      "description": "",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:11.539907"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Yahoo Finance (Global)",
+      "name": "Analyst Report: Fiserv, Inc.",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_2972_AnalystReport_1770898202000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "description": "",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:11.539912"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Yahoo Finance (Global)",
+      "name": "Is HELOC interest tax deductible in 2026? Updated rules for homeowners.",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/is-heloc-interest-tax-deductible-173527216.html",
+      "description": "",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:11.539918"
+    },
+    {
+      "source": "news_feed",
+      "source_name": "Yahoo Finance (Global)",
+      "name": "Crown Crafts (CRWS) Q3 2026 Earnings Transcript",
+      "url": "https://finance.yahoo.com/news/crown-crafts-crws-q3-2026-150209011.html",
+      "description": "",
+      "daily_stars": 0,
+      "fetched_at": "2026-02-12T23:02:11.539923"
     }
   ],
   "x_hot_words": [
